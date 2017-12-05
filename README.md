@@ -9,7 +9,7 @@ Our current goals revolve around the transition to a more robust architecture fo
 &nbsp; 
 
 ## Android
-### AWS S3 integration for Android -> Lei
+### Digital Ocean Space (AWS S3 Clone) integration for Android -> Lei
 ### Android deployment automation -> Surbhi
 &nbsp; 
 
