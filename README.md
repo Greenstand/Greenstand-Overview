@@ -8,14 +8,19 @@ Our current goals revolve around the transition to a more robust architecture fo
 # Assigned Tasks for this week
 &nbsp; 
 
-## Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) 
-## AWS S3 integration for Android -> Lei
-## First work on new web map API in node.js -> JEM
-## Authentication for new android API in node.js -> Interrupt
-## Create treetracker web map example embed -> Sameera
-## Implement clustering inside postGIS -> Anuja
-## Android deployment automation -> Surbhi
-## Create development infrastructure -> Zaven
+## Android
+### AWS S3 integration for Android -> Lei
+### Android deployment automation -> Surbhi
+
+## API
+### Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) 
+### First work on new web map API in node.js -> JEM
+### Authentication for new android API in node.js -> Interrupt
+### Implement clustering inside postGIS -> Anuja
+### Create development infrastructure -> Zaven
+
+## Web
+### Create treetracker web map example embed -> Sameera
 
 &nbsp; 
 
