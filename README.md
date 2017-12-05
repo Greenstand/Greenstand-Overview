@@ -4,13 +4,15 @@
 # Assigned Tasks for this week
 &nbsp; 
 
-## Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter)
+## Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) 
+## AWS S3 integration for Android -> Lei
+## First work on new web map API in node.js -> JEM
+## Authentication for new android API in node.js -> Interrupt
 ## Create treetracker web map example embed -> Sameera
 ## Implement clustering inside postGIS -> Anuja
 ## Android deployment automation -> Surbhi
-## First work on new web map API in node.js -> JEM
-## Authentication for new android API in node.js -> Interrupt
-## AWS S3 integration for Android -> Lei
+## Create development infrastructure -> Zaven
+
 &nbsp; 
 
 # Unassigned Tasks
