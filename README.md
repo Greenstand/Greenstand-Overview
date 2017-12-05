@@ -14,7 +14,7 @@ Our current goals revolve around the transition to a more robust architecture fo
 &nbsp; 
 
 ## API
-### Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) 
+### ~~Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) ~~
 ### First work on new web map API in node.js -> JEM
 ### Authentication for new android API in node.js -> Interrupt
 ### Implement clustering inside postGIS -> Anuja
