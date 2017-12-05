@@ -1,6 +1,8 @@
 # Development Status for Week of 12/4
 Our current goals revolve around the transition to a more robust architecture for the entire stack.
 &nbsp; 
+&nbsp; 
+
  
 # Assigned Tasks for this week
 &nbsp; 
