@@ -11,6 +11,7 @@ Our current goals revolve around the transition to a more robust architecture fo
 ## Android
 ### AWS S3 integration for Android -> Lei
 ### Android deployment automation -> Surbhi
+&nbsp; 
 
 ## API
 ### Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter) 
@@ -18,6 +19,7 @@ Our current goals revolve around the transition to a more robust architecture fo
 ### Authentication for new android API in node.js -> Interrupt
 ### Implement clustering inside postGIS -> Anuja
 ### Create development infrastructure -> Zaven
+&nbsp; 
 
 ## Web
 ### Create treetracker web map example embed -> Sameera
