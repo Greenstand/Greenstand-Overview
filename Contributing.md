@@ -7,7 +7,7 @@ We are here to make the world a cooler, richer and greener place.
 - ### [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
 ## Your first contribution
-* Find a task by contacting contacting @Zaven or checking the the 'issue' or Board tabs above for a a project you would like to work on. 
+* Find a task by contacting contacting @Zaven or checking the *Issue* or *Board* tabs above for a task you would like to work on. 
 * Assign yourself to that task
 * Fork the Repo
 * Ask for clearification if needed (via Git hub issues or slack) 
