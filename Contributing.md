@@ -10,12 +10,13 @@ We are here to make the world a cooler, richer and greener place.
 
 ## Your first contribution
 * Find a task you would like to work on by: 
-  * 1. contacting contacting @Zaven on Slack.
+  * 1. contacting @Zaven on Slack
   * 2. or checking the *Board* tabs above (you must [Enable Zenhub](https://www.zenhub.com/extension) on your browser)
-  * 3. or browse the issues in individual repos. 
+  * 3. or browse the issues in individual repositories 
 * Assign yourself to that task
-* Fork the Repo
-* Ask for clearification if needed (via Git hub issues or slack) 
+* Fork the repository
 * Make a pull request
+* Ask for clarification if needed (via Git hub issues or slack)
+* Report problems
 
-Think Agile Mindset.  When it doubt ask.
+Think Agile.  When it doubt ask.
