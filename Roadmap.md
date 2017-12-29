@@ -27,10 +27,10 @@ This project coordinates tree planting employment for people living in extreme p
 + Stylize dialog
 
 ### API
-+ Clean or Rewrite the Api (**Underway**)
-+ Access control on the API
+~~+ Clean or Rewrite the Api (**Underway**)~~
++ Access control on the API  (**Underway**)
 + Create tree endpoints filtered by location or user
-+ JSONP endpoints for Map
+~~+ JSONP endpoints for Map~~
 
 ### Cloud
 + Scalable Infrastructure / Load Balancing
