@@ -5,6 +5,7 @@ Our current goals revolve around the transition to a more robust architecture fo
 &nbsp; 
 
  
+ 
 # Assigned Tasks for this week
 &nbsp; 
 
