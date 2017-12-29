@@ -21,24 +21,34 @@ This project coordinates tree planting employment for people living in extreme p
 
 ### Web
 + Design and Implement an Awesome web map background (**Underway**)
+
 ~~+ Switch to JSONP endpoints~~ CANCELLED
+
 + Design location markers, etc (**Underway**)
+
 + Tweak for embedding in other platforms (**Underway**)
+
 + Stylize dialog
 
 ### API
 ~~+ Clean or Rewrite the Api (**Underway**)~~
+
 + Access control on the API  (**Underway**)
+
 + Create tree endpoints filtered by location or user
+
 ~~+ JSONP endpoints for Map~~
 
 ### Cloud
 + Scalable Infrastructure / Load Balancing
+
 + Backups
+
 + SSL (https)
 
 ### Dev Ops
 + Deployments
+
 + Automated unit testing
 
 ## Targets for February 2018 (Deployable System)
