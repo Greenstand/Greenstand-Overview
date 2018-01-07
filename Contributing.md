@@ -13,7 +13,6 @@ We are here to make the world a cooler, richer and greener place.
   * 1. contacting @Zaven on Slack
   * 2. or checking the *Board* tabs above (you must [Enable Zenhub](https://www.zenhub.com/extension) on your browser)
   * 3. or browse the issues in individual repositories 
-* Assign yourself to that task
 * Fork the repository
 * Make a pull request
 * Ask for clarification if needed (via Git hub issues or slack)
