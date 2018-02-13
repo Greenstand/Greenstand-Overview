@@ -1,6 +1,6 @@
 #Welcome to GreenStand's Tree Tracker project
 
-See {Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) for more information on how to get involved. 
+See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) for more information on how to get involved. 
 
 Look for issues in related repositories. 
 
