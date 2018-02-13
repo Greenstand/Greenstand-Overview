@@ -1,15 +1,14 @@
-# Development Status for Week of 12/4
-Our current goals revolve around the transition to a more robust architecture for the entire stack.
-
+# Development Status for Week of 02/12
+Our current goals revolve around releasing a stable android app and transitioning to a more robust architecture for the entire stack
 &nbsp; 
 &nbsp; 
 
  
-# Assigned Tasks for this week
+# See Issues Tickets in Repo's 
 &nbsp; 
 
 ## Android
-### Digital Ocean Space (AWS S3 Clone) integration for Android -> Lei
+~~### Digital Ocean Space (AWS S3 Clone) integration for Android ->~~ Lei
 ### Android deployment automation -> Surbhi
 &nbsp; 
 
@@ -22,17 +21,17 @@ Our current goals revolve around the transition to a more robust architecture fo
 &nbsp; 
 
 ## Web
-### Create treetracker web map example embed -> Sameera
+~~### Create treetracker web map example embed -> Sameera~~
 
 &nbsp; 
 
-# Unassigned Tasks
+# Tasks
 &nbsp; 
 
 ## Android
 ### Remove retake photo button: https://github.com/Greenstand/treetracker-android/issues/23
-### Crash report on Sync: https://github.com/Greenstand/treetracker-android/issues/21
-### GPS Location Recording: https://github.com/Greenstand/treetracker-android/issues/22
+~~### Crash report on Sync: https://github.com/Greenstand/treetracker-android/issues/21~~
+~~### GPS Location Recording: https://github.com/Greenstand/treetracker-android/issues/22~~
 ### First view of new tree page is blank: https://github.com/Greenstand/treetracker-android/issues/19
 &nbsp; 
 
