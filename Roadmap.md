@@ -2,6 +2,8 @@
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
+See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
+
 ## Immediate Development Targets (Core Functionality)
 
 ### Android
@@ -20,13 +22,13 @@ This project coordinates tree planting employment for people living in extreme p
 ~~+ Remove remind to sync ~~
 
 ### Web
-+ Design and Implement an Awesome web map background (**Underway**)
++ Design and Implement an Awesome web map background 
 
 ~~+ Switch to JSONP endpoints~~ CANCELLED
 
-+ Design location markers, etc (**Underway**)
++ Design location markers, etc
 
-+ Tweak for embedding in other platforms (**Underway**)
++ ~~Tweak for embedding in other platforms ~~
 
 + Stylize dialog
 
@@ -34,6 +36,10 @@ This project coordinates tree planting employment for people living in extreme p
 ~~+ Clean or Rewrite the Api (**Underway**)~~
 
 + Access control on the API  (**Underway**)
++ ~~First work on new web map API in node.js ->~~ JEM
++ Authentication for new android API in node.js
++ ~~Implement clustering inside postGIS~~ Anuja
++ ~~Create development infrastructure~~ Zaven
 
 + Create tree endpoints filtered by location or user
 
@@ -44,7 +50,9 @@ This project coordinates tree planting employment for people living in extreme p
 
 + Backups
 
-+ SSL (https)
++ ~~SSL (https)~~ Jon
+
++ SSL (https) Dev Server
 
 ### Dev Ops
 + Deployments
