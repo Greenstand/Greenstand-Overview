@@ -1,27 +1,12 @@
-#Welcome to GreenStand's Tree Tracker project
+# Welcome to GreenStand's Tree Tracker project
 
 ## Contributing
 
-Learn more about how to contribute here(.github/Contributing.md)
+To learn more about how to contribute see [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
 
-## API
-~~Install postGRES/postGIS on cloud server for development -> Zaven (deepwinter)~~
-~~### First work on new web map API in node.js ->~~ JEM
-### Authentication for new android API in node.js ->
+Currently each repository has open issues associated with it.  We are currently working to consolidate these issue trackers for a bird's eye view of project status and development needs.  Find us on Slack for further details.
 
 
-## Web
-~~### Create treetracker web map example embed -> Sameera~~
+## Roadmap
 
-&nbsp;
-
-
-## Android
-### Remove retake photo button: https://github.com/Greenstand/treetracker-android/issues/23
-~~### Crash report on Sync: https://github.com/Greenstand/treetracker-android/issues/21~~
-~~### GPS Location Recording: https://github.com/Greenstand/treetracker-android/issues/22~~
-### First view of new tree page is blank: https://github.com/Greenstand/treetracker-android/issues/19
-&nbsp;
-
-## Web Map
-### Map icon pixelated when many points: https://github.com/Greenstand/treetracker-web-map/issues/1
+See our [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) for our long term development plans.
