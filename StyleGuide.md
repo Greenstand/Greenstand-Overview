@@ -1,4 +1,4 @@
-# This document describes coding style rules for contributing to the Greenstand code base
+# Greenstand Coding Style Guide
 
 ### Tabs
 
