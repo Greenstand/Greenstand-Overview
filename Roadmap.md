@@ -23,7 +23,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Web
 + Design and Implement an Awesome web map background 
-
++ SSL for treetracker to include map in greenstand website
 ~~+ Switch to JSONP endpoints~~ CANCELLED
 
 + Design location markers, etc
@@ -104,4 +104,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ### Advanced GIS features and Data Analysis
 
 ### Species recognition
+
+### Tree Traidng
++ Ability to trade the "ownership" of a tree for real money
 
