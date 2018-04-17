@@ -63,4 +63,7 @@ Other:
 
 
 Helpful Links: 
+
+[GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
+
 [Synicing a fork in Github](https://help.github.com/articles/syncing-a-fork/)
