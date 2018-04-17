@@ -11,7 +11,8 @@ To add a channel: on the left window in Slack find **channel +** and add yoursel
 * Keep your messages in the relevant channels - talk about android in the android channel etc..
 * Ask any question - we are friendly and all learning together. General tech questions go in #development, other questions in #general, android questions in #android etc.
 
-### [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
+### Join our team
+[Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
 ## Your first contribution
 * Find a task you would like to work on by browsing the repositories' issue lists below. Please post your intentions in the relevant slack channel to let others know what you are working. 
@@ -59,3 +60,7 @@ Api's
 
 Other:
 * [Development overview](https://github.com/Greenstand/Development-Overview)
+
+
+Helpful Links: 
+[Synicing a fork in Github](https://help.github.com/articles/syncing-a-fork/)
