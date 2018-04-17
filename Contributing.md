@@ -14,7 +14,7 @@ To add a channel: on the left window in Slack find **channel +** and add yoursel
 ### [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
 ## Your first contribution
-* Find a task you would like to work on by browsing individual repositories issue lists below. Please post your intentions in the relevant slack channel to let others know what you are working. 
+* Find a task you would like to work on by browsing the repositories' issue lists below. Please post your intentions in the relevant slack channel to let others know what you are working. 
    * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
    * Java Issues: [Android](https://github.com/Greenstand/treetracker-android/issues)
        
@@ -25,14 +25,18 @@ To add a channel: on the left window in Slack find **channel +** and add yoursel
           [Admin Panel API](https://github.com/Greenstand/treetracker-admin-api/issues), 
           [Map API](https://github.com/Greenstand/treetracker-map-api/issues),
                 
-    * [Design Issues] (https://github.com/Greenstand/Design/issues)
+    * [Design Issues](https://github.com/Greenstand/Design/issues)
 
+## Basic Git Hub skills required!
+If you have not heard of a **pull request** it is time for you to join over 27 million other developers and learn this version control platform. There are lots of cool articles to get you up to speed. https://guides.github.com/introduction/flow/
+We use the Fork and Pull model. 
+Basics: 
 * Fork the repository
-* Make a pull request
-* Ask for clarification if needed (via Git hub issues or slack)
+* All changes you make must be submitted for review via a pull request to the apropriate branch.
+* Ask for clarification if needed (via Git pull requessts or slack). 
 * Report problems
 
-Think Agile.  When it doubt ask.
+Think Agile with small itterations and clearly defined committs.  When it doubt ask.
 
 # Project Repository
 
