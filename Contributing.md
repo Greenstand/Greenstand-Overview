@@ -15,7 +15,7 @@ To add a channel: on the left window in Slack find **channel +** and add yoursel
 [Volunteer Signup Form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
 ## Your first contribution
-* Find a task you would like to work on by browsing the repositories' issue lists below. Please post your intentions in the relevant slack channel to let others know what you are working. 
+* Find a task you would like to work on by browsing the repositories' issue lists below. Please post your intentions in the relevant slack channel to let others know what you are working on. 
    * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
    * Java Issues: [Android](https://github.com/Greenstand/treetracker-android/issues)
        
@@ -34,14 +34,14 @@ We use the Fork and Pull model.
 Basics: 
 * Fork the repository
 * All changes you make must be submitted for review via a pull request to the apropriate branch.
-* Ask for clarification if needed (via Git pull requessts or slack). 
+* Ask for clarification if needed (via Git pull requests or slack). 
 * Report problems
 
-Think Agile with small itterations and clearly defined committs.  When it doubt ask.
+Think Agile with small itterations and clearly defined commits.  When in doubt, ask.
 
 # Project Repository
 
-*In it’s most basic form this platform is designed to collect tree inmages from an android applicaiton and disply these images on web-maps that can be served on other organiztions websites.*
+*In it’s most basic form this platform is designed to collect tree images from an android application and disply these images on web-maps that can be served on other organizations' websites.*
 
 * [Android Applicaiton](https://github.com/Greenstand/treetracker-android)
 * [Admin panel](Https://github.com/Greenstand/treetracker-admin)
@@ -66,4 +66,6 @@ Helpful Links:
 
 [GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
 
-[Synicing a fork in Github](https://help.github.com/articles/syncing-a-fork/)
+[Forking a Repository in Github](https://help.github.com/articles/fork-a-repo/)
+
+[Synicing a Fork in Github](https://help.github.com/articles/syncing-a-fork/)
