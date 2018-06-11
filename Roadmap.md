@@ -47,12 +47,16 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 + Access control on the API  (**Underway**)
 
-+ Authentication for new android API in node.js
+~~+ Authentication for new android API in node.js~~
 
 ~~+ Clean or Rewrite the Api (**Underway**)~~
+
 ~~+ First work on new web map API in node.js ->~~ JEM
+
 ~~+ Implement clustering inside postGIS~~ Anuja
+
 ~~+ Create development infrastructure~~ Zaven
+
 ~~+ JSONP endpoints for Map~~
 
 ### Cloud
@@ -94,6 +98,9 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
 
+### Species recognition
++ Machine Learning image and species verification
+
 #### Planting planning
 + Notify planters to check on particular trees
 + Species mixture and layout
@@ -102,11 +109,22 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Coordination of pickup
 
 #### Tree Updates
-+ Data quality / linking tree updates to correct tree using GPS
++ Linking tree updates to correct tree using object recognition coupled with GPS
+
+#### Data Quality
++ Planter feedback / monitary deduction for poor quality data
++ Image quality analysis on the phone itself (for blur detection, etc)
++ GPS coordinate accuracy enhancement
++ Filtering algorithms
++ Identifying optimal phones/hardware 
++ Cloud image analysis to filter out images that are not vegetation
++ Machine learning image verification
 
 ### Android
 + Money earned counter for the planter
 + Whitelabel deployments
+
+### IOS
 
 ### Link to mobile money
 
@@ -114,8 +132,5 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Advanced GIS features and Data Analysis
 
-### Species recognition
-
 ### Tree Traidng
 + Ability to trade the "ownership" of a tree for real money
-
