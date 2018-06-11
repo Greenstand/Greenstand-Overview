@@ -2,11 +2,9 @@
 
 ## Contributing See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
 
-## Roadmap
+## Roadmap See [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
 
-See our [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
-
-## Development needs as of 05/03/2018
+## Development needs as of 06/11/2018
 
 Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU) and let’s figure out how to leverage your skills, don’t be shy there are lots to a do and great community to plug into!
 
