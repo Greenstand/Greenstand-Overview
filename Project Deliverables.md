@@ -22,7 +22,7 @@
 + Individual tree Survival verification
 + Create a relationship between other organization’s donors and trees/tree planters 
 + Robust system, capable of millions of uploading tree/data assets a day
-+ Planter Account two factor authentication 
++ Planter Account two-factor authentication 
 + Provide planter feedback 
 + Open datasets to the scientific community
 + Planting accelerated
@@ -32,7 +32,7 @@
 
 ## Tier #3 
 
-### The Tree Economy - Sustained income from living trees
+### The Tree Economy - Sustained Income from Living Trees
 
 + Sustainable income from living trees 
 + In app finances (facial recognition/mobile money based)
@@ -44,6 +44,5 @@
 + Direct individual planter activation and funding
 + Tracking via remote sensing (satellite image/drone) linked to specific trees
 + Training session and Tutorials on organic farming intercropping and a more sustainable agriculture involving and including trees.
++ Planters account verification as the base for smallholder farmer loans
 + Blockchain based trading platform and verification system for trees and ecosystem services
-+ “Planters accounts verification” as the base for smallholder farmer loans
-
