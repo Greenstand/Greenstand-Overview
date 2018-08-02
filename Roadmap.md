@@ -28,9 +28,9 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 + Map centering on Tokend Trees
 
-+ Design and Implement an Awesome web map background 
-
 + Stylize dialog
+
+~~+ Design and Implement an Awesome web map background~~
 
 ~~+ SSL for treetracker to include map in greenstand website~~
 
