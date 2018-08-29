@@ -9,7 +9,7 @@
 + Essentials for tracking tree planting **Active (Limited ability to scale)** 
 + Providing basic planting maps to tree planting organizations **Active (Limited ability to scale)**  	
 + Financial link to remote verified planters **Active (Limited)** 
-+ Increased funding for individuals and planting organizations with an interactive map **Pending (Limited ability to scale)** 
++ Increased funding for individuals and planting organizations with an interactive map **Active (Limited ability to scale)** 
 + Statistics on tree survival rates. **Pending (Limited ability to scale)** 
 + Linking donations to specific trees **Active**
 + Trees Tracker Statistically
