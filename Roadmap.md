@@ -26,7 +26,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Web
 
-+ Map centering on Tokend Trees
+~~+ Map centering on Tokend Trees~~
 
 + Stylize dialog
 
