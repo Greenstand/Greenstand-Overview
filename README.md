@@ -36,8 +36,10 @@ Ask to be added to the team on Github.
 
 If you already know how feel free to just fork and pull.
 
-**Think Agile with small iterations and clearly defined commits.**
+**Think Agile - Small Iterations - Clearly Defined Commits.**
+  
   It helps all and makes your profile look cooler if you make more commits. 
+  
   Keep your commits small - if you worked on three issues make three commits etc. 
   
 When in doubt, ask.
@@ -65,21 +67,22 @@ When in doubt, ask.
 
 *In it’s most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In it's more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results based employment.*
 
-* [Treetracker-Android Applicaiton](https://github.com/Greenstand/treetracker-android)
-* [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
-* [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
-* [Desing Basics and Assets](https://github.com/Greenstand/Design)
-* [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
+1. [Treetracker-Android Applicaiton](https://github.com/Greenstand/treetracker-android)
+ - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
+2. [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
+ - [Treetracker-Web-Map User Story]https://github.com/Greenstand/treetracker-web-map/wiki
+3. [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
+ - [Treetracker-Admin User Story](https://github.com/Greenstand/treetracker-admin/wiki)
+4. [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
+5. [Desing Basics and Assets](https://github.com/Greenstand/Design)
+6. [Development overview](https://github.com/Greenstand/Development-Overview)
 
 Api's 
-* [Repository - Api for working with the treetracer-android mobile segment](https://github.com/Greenstand/treetracker-mobile-api)
-* [Repository - Api for working with Admin-panel](https://github.com/Greenstand/treetracker-admin-api)
-* [Repository - Api for the map](https://github.com/Greenstand/treetracker-map-api)
+* [Repository - Api for working with the android mobile segment](https://github.com/Greenstand/treetracker-mobile-api)
+* [Repository - Api for working with admin-panel](https://github.com/Greenstand/treetracker-admin-api)
+* [Repository - Api for the web-map](https://github.com/Greenstand/treetracker-map-api)
 * [Some json and scripts for working with the API](https://github.com/Greenstand/treetracker-json)
 * [Tree tracker server scripts](https://github.com/Greenstand/treetracker-server-scripts)
-
-Other:
-* [Development overview](https://github.com/Greenstand/Development-Overview)
 
 ## Basic Git Hub skills required!
 If you have not heard of a **pull request** it is time for you to join over 27 million developers and learn this version control platform. There are lots of cool articles to get you up to speed: [Github Introduction](https://guides.github.com/introduction/flow/) [Forking a Repository in Github](https://help.github.com/articles/fork-a-repo/), [Synicing a Fork in Github](https://help.github.com/articles/syncing-a-fork/)
