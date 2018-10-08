@@ -1,6 +1,8 @@
 # Welcome to GreenStand's Tree Tracker project
 
 ## Contributing See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
+###  Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)
+
 
 ## Roadmap See [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
 
@@ -23,8 +25,6 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 - Image processing - blurred/invalid image detection, duplicate image detection, seedling image recognition - in Java or AWS Lambda - let's get our analysis pipeline rolling.
 
 - Security Review
-
-- Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)
 
 ### Contacts: 
 [Slack Link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
