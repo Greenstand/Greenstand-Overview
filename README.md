@@ -65,19 +65,19 @@ When in doubt, ask.
 
 ## Project Repositories
 
-*In it’s most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In it's more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results based employment.*
+*In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment.*
 
 1. [Treetracker-Android Applicaiton](https://github.com/Greenstand/treetracker-android)
  - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
 2. [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
- - [Treetracker-Web-Map User Story]https://github.com/Greenstand/treetracker-web-map/wiki
+ - [Treetracker-Web-Map User Story](https://github.com/Greenstand/treetracker-web-map/wiki)
 3. [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
  - [Treetracker-Admin User Story](https://github.com/Greenstand/treetracker-admin/wiki)
 4. [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
 5. [Desing Basics and Assets](https://github.com/Greenstand/Design)
 6. [Development overview](https://github.com/Greenstand/Development-Overview)
 
-Api's 
+API's 
 * [Repository - Api for working with the android mobile segment](https://github.com/Greenstand/treetracker-mobile-api)
 * [Repository - Api for working with admin-panel](https://github.com/Greenstand/treetracker-admin-api)
 * [Repository - Api for the web-map](https://github.com/Greenstand/treetracker-map-api)
@@ -97,7 +97,7 @@ Basics:
 
 ### Slack Basics
 [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
-Slack is our main form of communications. Here are some Slack basics: 
+Slack is our main form of communication. Here are some Slack basics: 
 To add yourself to the desired channels: on the left window in Slack find **channel +**... 
 
 Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
