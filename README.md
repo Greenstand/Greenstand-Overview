@@ -30,19 +30,23 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 Help us star and fork our repositories.
 
 ### Join The team
-Fill out the [Join-the-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
+* Fill out the [Join-the-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
-Ask to be added to the team on Github. 
+* Ask to be added to the team on Github. 
 
-If you already know how feel free to just fork and pull.
+* If you already know how, feel free to just fork, build and pull.
+
+* If the words 'fork and pull' doesn't make sense, please read up on Github below. 
 
 **Think Agile - Small Iterations - Clearly Defined Commits.**
   
-  It helps all and makes your profile look cooler if you make more commits. 
-  
-  Keep your commits small - if you worked on three issues make three commits etc. 
-  
-When in doubt, ask.
+ * Keep your commits small - if you worked on three issues make three commits etc. 
+ 
+ * Small commites help the reviewer
+ 
+ * Lots of small commits make your profile look cooler.
+ 
+* When in doubt, ask.
 
 ## Your first contribution
 * Find a task you would like to work on by browsing the repositories' issue lists below. 
@@ -68,11 +72,11 @@ When in doubt, ask.
 *In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment.*
 
 1. [Treetracker-Android Applicaiton](https://github.com/Greenstand/treetracker-android)
- - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
+- [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
 2. [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
- - [Treetracker-Web-Map User Story](https://github.com/Greenstand/treetracker-web-map/wiki)
+   - [Treetracker-Web-Map User Story](https://github.com/Greenstand/treetracker-web-map/wiki)
 3. [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
- - [Treetracker-Admin User Story](https://github.com/Greenstand/treetracker-admin/wiki)
+  - [Treetracker-Admin User Story](https://github.com/Greenstand/treetracker-admin/wiki)
 4. [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
 5. [Desing Basics and Assets](https://github.com/Greenstand/Design)
 6. [Development overview](https://github.com/Greenstand/Development-Overview)
@@ -93,7 +97,7 @@ Basics:
 * Fork the repository
 * All changes you make must be submitted for review via a pull request to the appropriate branch.
 * Ask for clarification if needed (via Git pull requests or Slack). 
-* Report problems
+* Report problems.
 
 ### Slack Basics
 [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
