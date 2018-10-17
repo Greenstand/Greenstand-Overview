@@ -1,11 +1,8 @@
 # Welcome to GreenStand's Tree Tracker project
-**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to vierify tree planting and tree survival with geo-taged, time stamped images. The tree images are to be anylized using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map is embeded on other organizations websites. 
 
-## Contributing See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
-**Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
+We are here to make the world a cooler, richer and greener place.  
 
-
-## See [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
+**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map is embedded on other organizations websites. 
 
 ## Development needs as of 10/08/2018
 
@@ -27,9 +24,95 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - Security Review
 
-- **Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
+## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
 
-### Contacts: 
-[Slack Link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
+# Contributing to The Cause
+Help us star and fork our repositories.
 
-Info@greenstand.org
+### Join The team
+Fill out the [Join-the-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
+
+Ask to be added to the team on Github. 
+
+If you already know how feel free to just fork and pull.
+
+**Think Agile - Small Iterations - Clearly Defined Commits.**
+  
+  It helps all and makes your profile look cooler if you make more commits. 
+  
+  Keep your commits small - if you worked on three issues make three commits etc. 
+  
+When in doubt, ask.
+
+## Your first contribution
+* Find a task you would like to work on by browsing the repositories' issue lists below. 
+* Let others know what you are working on - post your intentions in the relevant slack channel or Github comments. 
+* If you don't find something now, be persistent. 
+
+## Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
+
+   * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
+   * Kotlin Issues: [Android](https://github.com/Greenstand/treetracker-android/issues)
+       
+   * Java Script Issues:
+          [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
+          [Web map issues](https://github.com/Greenstand/treetracker-web/issues), 
+          [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues), 
+          [Admin Panel API](https://github.com/Greenstand/treetracker-admin-api/issues), 
+          [Map API](https://github.com/Greenstand/treetracker-map-api/issues),
+                
+   * [Design Issues](https://github.com/Greenstand/Design/issues)
+
+## Project Repositories
+
+*In it’s most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In it's more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results based employment.*
+
+1. [Treetracker-Android Applicaiton](https://github.com/Greenstand/treetracker-android)
+ - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
+2. [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
+ - [Treetracker-Web-Map User Story]https://github.com/Greenstand/treetracker-web-map/wiki
+3. [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
+ - [Treetracker-Admin User Story](https://github.com/Greenstand/treetracker-admin/wiki)
+4. [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
+5. [Desing Basics and Assets](https://github.com/Greenstand/Design)
+6. [Development overview](https://github.com/Greenstand/Development-Overview)
+
+Api's 
+* [Repository - Api for working with the android mobile segment](https://github.com/Greenstand/treetracker-mobile-api)
+* [Repository - Api for working with admin-panel](https://github.com/Greenstand/treetracker-admin-api)
+* [Repository - Api for the web-map](https://github.com/Greenstand/treetracker-map-api)
+* [Some json and scripts for working with the API](https://github.com/Greenstand/treetracker-json)
+* [Tree tracker server scripts](https://github.com/Greenstand/treetracker-server-scripts)
+
+## Basic Git Hub skills required!
+If you have not heard of a **pull request** it is time for you to join over 27 million developers and learn this version control platform. There are lots of cool articles to get you up to speed: [Github Introduction](https://guides.github.com/introduction/flow/) [Forking a Repository in Github](https://help.github.com/articles/fork-a-repo/), [Synicing a Fork in Github](https://help.github.com/articles/syncing-a-fork/)
+
+**We use the Fork and Pull model.**
+
+Basics: 
+* Fork the repository
+* All changes you make must be submitted for review via a pull request to the appropriate branch.
+* Ask for clarification if needed (via Git pull requests or Slack). 
+* Report problems
+
+### Slack Basics
+[Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
+Slack is our main form of communications. Here are some Slack basics: 
+To add yourself to the desired channels: on the left window in Slack find **channel +**... 
+
+Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
+
+* Speak out! Public messages build our team and keep us motivated. Use Public channels as much as possible. 
+* Keep your messages in the relevant channels - talk about android in the android channel etc..
+* Ask any question - we are friendly and all learning together. General tech questions go in #development, other questions in #general, Android questions in #android etc.
+* Pointless chatter goes in #random channel
+* Opening *Threads* to reply keeps channels cleaner.
+
+## Helpful Links: 
+
+[GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
+
+## Contacts: 
+- [Slack Link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
+
+- Info@greenstand.org
