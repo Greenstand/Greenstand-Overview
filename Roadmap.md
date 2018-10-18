@@ -1,4 +1,4 @@
-# Roadmap for TreeTracker Project
+# Roadmap for TreeTracker Project (Reviewed 10/17/2018)
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
@@ -12,33 +12,14 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 + Fix critical bugs
 
-~~+ Integrate with API~~
++ Work on UX/UI
 
-~~+ Fix GPS Location Tracking~~
-
-~~+ Upload images to cloud object storage and integrate URLS with API (**Underway**)~~
-
-~~+ UI Fixes and Updates~~
-
-~~+ Repackage with new key~~
-
-~~+Remove remind to sync~~
 
 ### Web
 
-~~+ Map centering on Tokend Trees~~
++ Map centering on Tokend Trees anywhere in the world.
 
 + Stylize dialog
-
-~~+ Design and Implement an Awesome web map background~~
-
-~~+ SSL for treetracker to include map in greenstand website~~
-
-~~+ Switch to JSONP endpoints~~ CANCELLED
-
-~~+ Design location markers, etc~~
-
-~~+ Tweak for embedding in other platforms~~
 
 
 ### API
@@ -47,24 +28,12 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 + Access control on the API  (**Underway**)
 
-~~+ Authentication for new android API in node.js~~
-
-~~+ Clean or Rewrite the Api (**Underway**)~~
-
-~~+ First work on new web map API in node.js ->~~ JEM
-
-~~+ Implement clustering inside postGIS~~ Anuja
-
-~~+ Create development infrastructure~~ Zaven
-
-~~+ JSONP endpoints for Map~~
 
 ### Cloud
 
 + SSL (https) Dev Server
 + Scalable Infrastructure / Load Balancing
 + Backups
-+ ~~SSL (https)~~ Jon
 
 ### Dev Ops
 + Deployments
@@ -99,6 +68,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Payout management for planters / collectors
 
 ### Species recognition
++ Species Tagging Via Map
 + Machine Learning image and species verification
 
 #### Planting planning
@@ -109,10 +79,10 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Coordination of pickup
 
 #### Tree Updates
-+ Linking tree updates to correct tree using object recognition coupled with GPS
++ Linking tree updates to correct tree using object recognition, GPS and Machine learning.
 
 #### Data Quality
-+ Planter feedback / monitary deduction for poor quality data
++ Planter feedback / monitary deduction for poor quality data.
 + Image quality analysis on the phone itself (for blur detection, etc)
 + GPS coordinate accuracy enhancement
 + Filtering algorithms
@@ -132,5 +102,5 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Advanced GIS features and Data Analysis
 
-### Tree Traidng
-+ Ability to trade the "ownership" of a tree for real money
+### Tree Token Traidng
++ Ability to trade the "ownership" of tree tokens for real money or services.
