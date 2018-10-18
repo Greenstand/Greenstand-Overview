@@ -4,7 +4,7 @@
 
 ### Prototyping and Project Verification Stage
 
-+ Planting Verification: basic level of transparency to tree planting anywhere in the world. **Active** 
++ Planting Verification: A basic level of transparency to tree planting anywhere in the world. **Active** 
 + Linking smallholder planters to funding **Active (Limited ability to scale)** 
 + Essentials for tracking tree planting **Active (Limited ability to scale)** 
 + Providing basic planting maps to tree planting organizations **Active (Limited ability to scale)**  	
@@ -12,7 +12,7 @@
 + Increased funding for individuals and planting organizations with an interactive map **Active (Limited ability to scale)** 
 + Statistics on tree survival rates. **Pending (Limited ability to scale)** 
 + Linking donations to specific trees **Active**
-+ Trees Tracker Statistically
++ Trees Tracked Statistically
 
 ## Tier #2 
 
@@ -28,7 +28,7 @@
 + Planting accelerated
 + Advanced tree data searches
 + Carbon estimates for specific trees
-+ Trees tracker for recreational planters
++ Trees tracking for recreational planters
 
 ## Tier #3 
 
