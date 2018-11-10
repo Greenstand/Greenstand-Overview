@@ -8,7 +8,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Android
 
-+ Implement RPC for stream upload/downloading trees
+~+ Implement RPC for stream upload/downloading trees~
 
 + Fix critical bugs
 
@@ -17,7 +17,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Web
 
-+ Map centering on Tokend Trees anywhere in the world.
+~+ Map centering on Tokend Trees anywhere in the world.~
 
 + Stylize dialog
 
@@ -43,7 +43,7 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Admin Panel
 + List and filter plants by time and planter
-+ Remove tree records from list
+~+ Remove tree records from list~
 
 ### Embed maps in external websites
 + Filter by project / organizations
@@ -71,13 +71,6 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Species Tagging Via Map
 + Machine Learning image and species verification
 
-#### Planting planning
-+ Notify planters to check on particular trees
-+ Species mixture and layout
-+ Collection of forest products
-+ Coordination of collection
-+ Coordination of pickup
-
 #### Tree Updates
 + Linking tree updates to correct tree using object recognition, GPS and Machine learning.
 
@@ -101,6 +94,13 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ### Link donations to individual trees or groups of trees
 
 ### Advanced GIS features and Data Analysis
+
+#### Planting planning
++ Notify planters to check on particular trees
++ Species mixture and layout
++ Collection of forest products
++ Coordination of collection
++ Coordination of pickup
 
 ### Tree Token Traidng
 + Ability to trade the "ownership" of tree tokens for real money or services.
