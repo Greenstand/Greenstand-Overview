@@ -24,7 +24,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - Security Review
 
-## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans.
+## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans
 
 # Contributing to The Cause
 Help us star and fork our repositories.
@@ -71,23 +71,23 @@ Help us star and fork our repositories.
 
 *In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment.*
 
-1. [Treetracker-Android Application](https://github.com/Greenstand/treetracker-android)
+#### [Treetracker-Android Application](https://github.com/Greenstand/treetracker-android)
 - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
 - [Treetracker Android Project Board](https://github.com/orgs/Greenstand/projects/5)
 - [Treetracker Android Wiki](https://github.com/Greenstand/treetracker-android/wiki)
-2. [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
+#### [Treetracker-Web Map](https://github.com/Greenstand/treetracker-web)
 - [Treetracker-Web-Map User Story](https://github.com/Greenstand/treetracker-web-map/wiki)
 - [Treetracker Web Map Project Board](https://github.com/orgs/Greenstand/projects/4)
 - [Treetracker Web Map Wiki](https://github.com/Greenstand/treetracker-web-map/wiki)
-3. [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
+#### [Treetracker-Admin panel](Https://github.com/Greenstand/treetracker-admin)
 - [Treetracker-Admin User Story]
 - [Treetracker Admin Project Board](https://github.com/orgs/Greenstand/projects/6)
 - [Treetracker Admin Wiki](https://github.com/Greenstand/treetracker-admin/wiki)
-4. [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
+#### [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
 - [Database Migrations Docs](https://db-migrate.readthedocs.io/en/latest/Getting%20Started/configuration/)
-5. [Design Basics and Assets](https://github.com/Greenstand/Design)
+#### [Design Basics and Assets](https://github.com/Greenstand/Design)
 - [Design Wiki](https://github.com/Greenstand/Design/wiki)
-6. [Development overview](https://github.com/Greenstand/Development-Overview)
+#### [Development overview](https://github.com/Greenstand/Development-Overview)
 - [Development Overview Project Board]
 - [Development Overview Wiki](https://github.com/Greenstand/Development-Overview/wiki)
 
