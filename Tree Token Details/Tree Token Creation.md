@@ -7,7 +7,7 @@
 
 ## Core ideas: 
 - The token has a market-driven value. 
-- All tokens are the same value and interchangeable.
+- All tokens are fungible (the same value and interchangeable).
 - All tokens are backed by a tree verification(s). 
 - One can own fractions of both trees and tokens.
 - GreenStand Validates tokens
@@ -23,7 +23,7 @@
 
 ## Current system 
 - 1 token = one tree verification (Geotagged time-stamped image of a tree).
-- Creation Limit = 1 per tree per 30 days cycle.
+- Creation Limit = 1 per tree per 28 days cycle.
 
 GreenStand is paying tree planters in local currency at a rate of 0.035 USD per token 
 
@@ -34,7 +34,7 @@ This system doesn't account for:
 - Species diversity
 - Delays in tracking
 
-For example, Mo tracks his Baobab tree once every 3 months and only gets one token each month at 3.5 cents for an awesome tree that is challenging to keep alive. It is not enough.
+For example, Mo tracks his Baobab tree once every 3 months and only gets one token each month at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
 ### Possible Solution:
 
@@ -48,13 +48,13 @@ Filler Tokens:
   - Have a reduction factor of 'x' to incentivize tracking
   - Can not be fabricated by two separate planters
   - Can not be generated 'x' months after a Seed Token
-  
+  - Must link to corresponding Seed Token Verification updates
 Number of tokens = months since last verification of that tree?
 
-### Fortune Factor
-An algorithm allowing one tree verification to create multiple tokens: # tokens = tree update * (fortune factor).
+### Value Factor
+An algorithm allowing one tree verification to create multiple tokens: # tokens = tree update * (Value Factor).
 
-Fortune Factor compensates for:
+Value Factor compensates for:
   - unique environmental challenges
   - Species diversity
   - Unique Species 
