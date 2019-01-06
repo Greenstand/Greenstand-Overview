@@ -1,4 +1,4 @@
-# Roadmap for TreeTracker Project
+# Roadmap for TreeTracker Project (Reviewed 10/17/2018)
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
@@ -7,63 +7,43 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ## Immediate Development Targets (Core Functionality)
 
 ### Android
-~~+ Integrate with API~~
 
-~~+ Fix GPS Location Tracking~~
+~+ Implement RPC for stream upload/downloading trees~
 
-~~+ Upload images to cloud object storage and integrate URLS with API (**Underway**)~~
++ Fix critical bugs
 
-~~+ UI Fixes and Updates~~
++ Work on UX/UI
 
-~~+ Repackage with new key~~
-
-+ Implement RPC for stream upload/downloading trees
-
-~~+ Remove remind to sync ~~
 
 ### Web
-+ Design and Implement an Awesome web map background 
 
-~~+ Switch to JSONP endpoints~~ CANCELLED
-
-+ Design location markers, etc
-
-+ ~~Tweak for embedding in other platforms ~~
+~+ Map centering on Tokend Trees anywhere in the world.~
 
 + Stylize dialog
 
-### API
-~~+ Clean or Rewrite the Api (**Underway**)~~
 
-+ Access control on the API  (**Underway**)
-+ ~~First work on new web map API in node.js ->~~ JEM
-+ Authentication for new android API in node.js
-+ ~~Implement clustering inside postGIS~~ Anuja
-+ ~~Create development infrastructure~~ Zaven
+### API
 
 + Create tree endpoints filtered by location or user
 
-~~+ JSONP endpoints for Map~~
++ Access control on the API  (**Underway**)
+
 
 ### Cloud
-+ Scalable Infrastructure / Load Balancing
-
-+ Backups
-
-+ ~~SSL (https)~~ Jon
 
 + SSL (https) Dev Server
++ Scalable Infrastructure / Load Balancing
++ Backups
 
 ### Dev Ops
 + Deployments
-
 + Automated unit testing
 
-## Targets for February 2018 (Deployable System)
+## Short Term Targets (Deployable System)
 
 ### Admin Panel
 + List and filter plants by time and planter
-+ Remove tree records from list
+~+ Remove tree records from list~
 
 ### Embed maps in external websites
 + Filter by project / organizations
@@ -78,24 +58,36 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ## Long Term Feature Targets  (Full System)
 
 ### Admin Panel
+
++ Visulize 
+
 #### Project management
 + Create planter accounts
 + Assign planters to projects / organizations
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
-#### Planting planning
-+ Notify planters to check on particular trees
-+ Species mixture and layout
-+ Collection of forest products
-+ Coordination of collection
-+ Coordination of pickup
+
+### Species recognition
++ Species Tagging Via Map
++ Machine Learning image and species verification
 
 #### Tree Updates
-+ Data quality / linking tree updates to correct tree using GPS
++ Linking tree updates to correct tree using object recognition, GPS and Machine learning.
+
+#### Data Quality
++ Planter feedback / monitary deduction for poor quality data.
++ Image quality analysis on the phone itself (for blur detection, etc)
++ GPS coordinate accuracy enhancement
++ Filtering algorithms
++ Identifying optimal phones/hardware 
++ Cloud image analysis to filter out images that are not vegetation
++ Machine learning image verification
 
 ### Android
 + Money earned counter for the planter
 + Whitelabel deployments
+
+### IOS
 
 ### Link to mobile money
 
@@ -103,5 +95,12 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Advanced GIS features and Data Analysis
 
-### Species recognition
+#### Planting planning
++ Notify planters to check on particular trees
++ Species mixture and layout
++ Collection of forest products
++ Coordination of collection
++ Coordination of pickup
 
+### Tree Token Traidng
++ Ability to trade the "ownership" of tree tokens for real money or services.
