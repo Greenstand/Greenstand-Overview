@@ -1,4 +1,4 @@
-# Roadmap for TreeTracker Project (Reviewed 10/17/2018)
+# Roadmap for TreeTracker Project (Reviewed Feb 2019)
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
@@ -21,6 +21,11 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 + Stylize dialog
 
++ A charts page
+
++ Filter by project / organizations
++ Filter by region
++ Filter by date
 
 ### API
 
@@ -44,16 +49,6 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ### Admin Panel
 + List and filter plants by time and planter
 ~+ Remove tree records from list~
-
-### Embed maps in external websites
-+ Filter by project / organizations
-+ Filter by region
-+ Filter by date
-
-### Donor Panel 
-+ Map
-+ Click on trees and see something
-+ A charts page
 
 ## Long Term Feature Targets  (Full System)
 
