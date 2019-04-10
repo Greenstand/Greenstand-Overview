@@ -10,7 +10,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - HTML/JS - Both our web map and our admin panel need HTML and Javascript support on the frontend (React.js, google maps, query).  And API work on backend (node.js).
 
-- Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the Africa field. It needs more testing and crash debugging.  Either you are an app breaker or an app fixer —  we need both!
+- Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the Africa field. It needs more testing and crash debugging. 
 
 - DevOps - Currently taken up by @Matt. We have Jenkins in place and could use more support getting our CI/CD pipelines dialed in for node.js and Android.
 
@@ -20,7 +20,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - Database - Treetracker is currently powered by postGRES/postGIS.  As our database grows to millions of trees, our clustering algorithms are going to need aggressive optimization.
 
-- Image processing - blurred/invalid image detection, duplicate image detection. AWS Lambda? - let's get our analysis pipeline rolling.
+- Image processing - blurred/invalid image detection, duplicate image detection. Let's get our analysis pipeline rolling.
 
 - Security Review
 
@@ -62,10 +62,7 @@ Help us star and fork our repositories.
           [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
           [Web map issues](https://github.com/Greenstand/treetracker-web/issues), 
           [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues), 
-          [Admin Panel API](https://github.com/Greenstand/treetracker-admin-api/issues), 
-          [Map API](https://github.com/Greenstand/treetracker-map-api/issues),
-                
-   * [Design Issues](https://github.com/Greenstand/Design/issues)
+          
 
 ## Project Repositories
 
@@ -94,7 +91,6 @@ Help us star and fork our repositories.
 API's 
 * [Repository - Api for working with the android mobile segment](https://github.com/Greenstand/treetracker-mobile-api)
 * [Repository - Api for working with admin-panel](https://github.com/Greenstand/treetracker-admin-api)
-* [Repository - Api for the web-map](https://github.com/Greenstand/treetracker-map-api)
 * [Some json and scripts for working with the API](https://github.com/Greenstand/treetracker-json)
 * [Tree tracker server scripts](https://github.com/Greenstand/treetracker-server-scripts)
 
