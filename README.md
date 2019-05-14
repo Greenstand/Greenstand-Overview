@@ -12,7 +12,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the Africa field. It needs more testing and crash debugging. 
 
-- DevOps - Currently taken up by @Matt. We have Jenkins in place and could use more support getting our CI/CD pipelines dialed in for node.js and Android.
+- DevOps - Currently taken up by @MattK. We have Jenkins in place and could use more support getting our CI/CD pipelines dialed in for node.js and Android.
 
 - Node.js unit testing - We only have partial coverage of our API in our unit tests, which means we cannot reliability validate new commits for continuous deployment.  We are using Mocha/Chai to write automated tests, and this should be straightforward for anyone with basic unit testing experience.
 
