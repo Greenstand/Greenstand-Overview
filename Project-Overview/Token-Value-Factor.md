@@ -1,7 +1,7 @@
 ### Value Factor
-An algorithm allowing one tree verification to create multiple tokens: # tokens = tree update * (fortune factor).
+An algorithm allowing one tree verification to create multiple tokens: # tokens = tree update * (value factor).
 
-A factor of 1 should be a standard tree
+A factor of 1 = standard tree
 
 Value Factor compensates for:
   - Unique environmental challenges
@@ -10,6 +10,3 @@ Value Factor compensates for:
   - Other ecological value
   - Other challanges
   - Tree Spacing
-  
-  Could be a total points system
-   
