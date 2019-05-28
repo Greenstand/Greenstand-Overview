@@ -23,6 +23,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 - Image processing - blurred/invalid image detection, duplicate image detection. Let's get our analysis pipeline rolling.
 
 - Security Review
+- Quality Control
 
 ## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans
 
