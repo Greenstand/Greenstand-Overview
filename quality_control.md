@@ -1,6 +1,8 @@
 
 # Quality Control Howto
 
+This is an invitation for some Beta Testing. We have the app in the link below. Follow the instructions. If anything is unclear please comment or make and issue. If you would like to improve the quality control mechanism and have any creative or best practice solutions we highly appreciate your contribution.   
+
 1. Go to https://betas.to/BrzTMFWx , register with email and download the latest debug Build
 Make sure you remove any old versions of the app
 1. Install app (note! Android only)
@@ -11,3 +13,5 @@ Make sure you remove any old versions of the app
 1. Contact #quality-control on slack
 
 Thank you !
+
+> This app is currently on Android only.
