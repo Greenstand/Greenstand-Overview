@@ -97,5 +97,5 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Coordination of collection
 + Coordination of pickup
 
-### Tree Token Traidng
+### Tree Token Trading
 + Ability to trade the "ownership" of tree tokens for real money or services.
