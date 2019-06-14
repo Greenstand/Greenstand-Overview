@@ -10,14 +10,9 @@
 - All tokens are fungible (the same value and interchangeable).
 - All tokens are backed by a tree verification(s). 
 - One can own fractions of both trees and tokens.
-- GreenStand Validates tokens
-- GreenStand can sell tokens. 
- 
-## Core ideas: 
-- The token should have a standardized value. 
-- All tokens should be the same value and interchangeable.
-- All tokens are backed by a tree verification(s). 
-- One can own fractions of both trees and tokens.
+- Greenstand sets standard to validates tokens
+- Greenstand can sell tokens
+- Tokens can be bought, soild and traded indipendent of Greenstand
 
 # Tree Token Value at Creation
 
@@ -34,7 +29,7 @@ This system doesn't account for:
 - Species diversity
 - Delays in tracking
 
-For example, Mo tracks his Baobab tree once every 3 months and only gets one token each month at 3.5 cents for an awesome tree that is challenging to keep alive. 
+For example, Sarah tracks his Baobab tree once every 3 months and only gets one token each time she tracks at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
 ### Possible Solution:
 
