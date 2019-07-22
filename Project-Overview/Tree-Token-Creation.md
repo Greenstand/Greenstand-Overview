@@ -7,7 +7,6 @@
 
 ## Core ideas: 
 - The token has a market-driven value. 
-- All tokens are fungible (the same value and interchangeable).
 - All tokens are backed by a tree verification(s). 
 - One can own fractions of both trees and tokens.
 - Greenstand sets standard to validates tokens
