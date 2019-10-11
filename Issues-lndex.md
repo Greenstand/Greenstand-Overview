@@ -6,7 +6,6 @@ Please post your intentions in the relevant slack channel to let others know wha
 
 * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
 
-* [Design Issues](https://github.com/Greenstand/Design/issues)
 
 ## Java Issues: 
   
@@ -23,5 +22,10 @@ Please post your intentions in the relevant slack channel to let others know wha
        * [Map API](https://github.com/Greenstand/treetracker-map-api/issues),
 
   * [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues), 
+  
+## Data Base: 
+
+  * [Database issues](https://github.com/Greenstand/treetracker-database/issues)
+
        
         
