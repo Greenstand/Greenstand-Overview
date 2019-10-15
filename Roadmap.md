@@ -1,4 +1,4 @@
-# Roadmap for TreeTracker Project (Reviewed Feb 2019)
+# Roadmap for TreeTracker Project (Reviewed Oct 2019)
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
@@ -8,21 +8,21 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Android
 
-~+ Implement RPC for stream upload/downloading trees~
-
 + Fix critical bugs
-
 + Work on UX/UI
++ GPS coordinate accuracy enhancement
+**(Future)**
++ Planter Feedback (display of which images are not valid/why) 
++ Tree Tracker Money app flavor (tageting planters who are being paid)
++ Planter Feedback (display of which images are not valid/why) 
++ Money earned counter for the planter
 
 
-### Web
-
-~+ Map centering on Tokend Trees anywhere in the world.~
+### Web Map
 
 + Stylize dialog
-
++ Auto pop out when the map is opened to specific trees
 + A charts page
-
 + Filter by project / organizations
 + Filter by region
 + Filter by date
@@ -30,10 +30,8 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ### API
 
 + Create tree endpoints filtered by location or user
-
 + Access control on the API  (**Underway**)
-
-
+  
 ### Cloud
 
 + SSL (https) Dev Server
@@ -47,47 +45,33 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ## Short Term Targets (Deployable System)
 
 ### Admin Panel
-+ List and filter plants by time and planter
-~+ Remove tree records from list~
++ User verification
++ Species Tag 
++ Visulize planters
++ Token Validation
++ Duplicate indentification
++ Update feature
 
-## Long Term Feature Targets  (Full System)
+## Data Quality
++ Planter feedback / monitary deduction for poor quality data.
++ Filtering algorithms
++ Cloud image analysis to sort images based on tags (grown, hole, etc..)
++ Machine Learning image and species verification
 
-### Admin Panel
-
-+ Visulize 
-
-#### Project management
+#### Data management
++ Identifying optimal phones/hardware 
 + Create planter accounts
 + Assign planters to projects / organizations
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
 
-### Species recognition
-+ Species Tagging Via Map
-+ Machine Learning image and species verification
-
 #### Tree Updates
-+ Linking tree updates to correct tree using object recognition, GPS and Machine learning.
-
-#### Data Quality
-+ Planter feedback / monitary deduction for poor quality data.
-+ Image quality analysis on the phone itself (for blur detection, etc)
-+ GPS coordinate accuracy enhancement
-+ Filtering algorithms
-+ Identifying optimal phones/hardware 
-+ Cloud image analysis to filter out images that are not vegetation
-+ Machine learning image verification
-
-### Android
-+ Money earned counter for the planter
-+ Whitelabel deployments
++ Linking tree updates to correct tree using object recognition, GPS, and Machine learning.
 
 ### IOS
 
-### Link to mobile money
-
 ### Link donations to individual trees or groups of trees
-
+**Future**
 ### Advanced GIS features and Data Analysis
 
 #### Planting planning
