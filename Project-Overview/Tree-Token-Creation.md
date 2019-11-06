@@ -19,7 +19,7 @@
 - 1 token = one tree verification (Geotagged time-stamped image of a tree).
 - Creation Limit = 1 per tree per 28 days cycle.
 
-GreenStand is paying tree planters in local currency at a rate of 0.035 USD per token 
+GreenStand is paying tree planters in local currency per token 
 
 ### Current Shortcomings 
 This system doesn't account for:
