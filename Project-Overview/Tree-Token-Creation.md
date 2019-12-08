@@ -4,13 +4,11 @@
 - A value system derived from the physical act of verifying tree survival.
 - A value system that rewards people responsible for tree survival.
 
-
 ## Core ideas: 
 - The token has a market-driven value. 
 - All tokens are backed by a tree verification(s). 
-- One can own fractions of both trees and tokens.
-- Greenstand sets standard to validates tokens
-- Greenstand can sell tokens
+- One can own fractions of tree impact with tokens.
+- Greenstand sets standard to validate tokens
 - Tokens can be bought, soild and traded indipendent of Greenstand
 
 # Tree Token Value at Creation
@@ -33,6 +31,7 @@ For example, Sarah tracks his Baobab tree once every 3 months and only gets one 
 ### Possible Solution:
 
 ### Seed Tokens and Filler tokens
+
 #### Seed Token:
 An update verification of a tree that can spawn interim tokens.
  
@@ -56,4 +55,3 @@ Value Factor compensates for:
   - Other challanges
 
 ### Flagged tokens (dead trees, duplicates, miss matched) are removed from the system, credited to the buyers account and planters 'account payable' is debited.
-
