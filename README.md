@@ -67,7 +67,7 @@ Help us star and fork our repositories.
 
 ## Project Repositories
 
-*In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment.*
+*In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment. Each Data point gets turned into a tradeable token*
 
 #### [Treetracker-Android Application](https://github.com/Greenstand/treetracker-android)
 - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
