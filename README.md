@@ -1,4 +1,4 @@
-# Welcome to GreenStand's Tree Tracker project
+# Welcome to Greenstand's Tree Tracker project
 
 We are here to make the world a cooler, richer and greener place.  
 
