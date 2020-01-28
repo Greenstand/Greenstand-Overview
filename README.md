@@ -10,15 +10,15 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - HTML/JS - Both our web map and our admin panel need HTML and Javascript support on the frontend (React.js, google maps, query).  And API work on backend (node.js).
 
-- Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the Africa field. It needs more testing and crash debugging. 
+- Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the most rural areas of Africa. It needs more testing and crash debugging. 
 
 - DevOps - Currently taken up by @MattK. We have Jenkins in place and could use more support getting our CI/CD pipelines dialed in for node.js and Android.
 
-- Node.js unit testing - We only have partial coverage of our API in our unit tests, which means we cannot reliability validate new commits for continuous deployment.  We are using Mocha/Chai to write automated tests, and this should be straightforward for anyone with basic unit testing experience.
+- Node.js unit testing - We only have partial coverage of our API in our unit tests, which means we cannot reliability validate new commits for continuous deployment. We are using Mocha/Chai to write automated tests, and this should be straightforward for anyone with basic unit testing experience.
 
 - Cloud - Docker, chef, or your favorite deployment tools, help us automate the rollout of new features to our production infrastructure.
 
-- Database - Treetracker is currently powered by postGRES/postGIS.  As our database grows to millions of trees, our clustering algorithms are going to need aggressive optimization.
+- Database - Treetracker is currently powered by postGRES/postGIS. As our database grows to millions of trees, our clustering algorithms are going to need aggressive optimization.
 
 - Image processing - blurred/invalid image detection, duplicate image detection. Let's get our analysis pipeline rolling.
 
