@@ -42,10 +42,8 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Deployments
 + Automated unit testing
 
-## Short Term Targets (Deployable System)
-
 ### Admin Panel
-+ User verification
++ User verification / login
 + Species Tag 
 + Visulize planters
 + Token Validation
