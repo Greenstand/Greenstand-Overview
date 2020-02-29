@@ -2,11 +2,12 @@
 
 We are here to make the world a cooler, richer and greener place.  
 
-**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map is embedded on other organizations websites. 
+**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map is embedded on other organizations' websites. 
 
-## Development needs as of 10/08/2018
+## Development needs as of 02/29/2020
 
-Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU) and let’s figure out how to leverage your skills, don’t be shy there are lots to a do and great community to plug into!
+Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWE3N2UwYjYyNWJiNzNlMzgzYjUyZDEwODVhNDVhYTZhNmJlZDc2NTM2MTkyODcxM2U3OWJlZWMxN2FhNWJkNWU) and let’s figure out how to leverage your skills. Don't be shy. There are lots to a do and a great community to plug into!
+** See Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md) below**
 
 - HTML/JS - Both our web map and our admin panel need HTML and Javascript support on the frontend (React.js, google maps, query).  And API work on backend (node.js).
 
@@ -43,7 +44,7 @@ Help us star and fork our repositories.
   
  * Keep your commits small - if you worked on three issues make three commits etc. 
  
- * Small commites help the reviewer
+ * Small commits help the reviewer
  
  * Lots of small commits make your profile look cooler.
  
@@ -51,7 +52,7 @@ Help us star and fork our repositories.
 
 ## Your first contribution
 * Find a task you would like to work on by browsing the repositories' issue lists below. 
-* Let others know what you are working on - post your intentions in the relevant slack channel or Github comments. 
+* Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel. 
 * If you don't find something now, be persistent. 
 
 ## Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
@@ -67,7 +68,7 @@ Help us star and fork our repositories.
 
 ## Project Repositories
 
-*In its most basic form this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment. Each Data point gets turned into a tradeable token*
+*In its most basic form, this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment. Each Data point gets turned into a tradeable token*
 
 #### [Treetracker-Android Application](https://github.com/Greenstand/treetracker-android)
 - [Treetracker_Android User Story](https://github.com/Greenstand/treetracker-android/wiki/User-Story)
@@ -118,7 +119,7 @@ Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
 * Ask any question - we are friendly and all learning together. General tech questions go in #development, other questions in #general, Android questions in #android etc.
 * Pointless chatter goes in #random channel
 * Opening *Threads* to reply keeps channels cleaner.
-
+* A list of all channels is found [here](https://greenstand.slack.com/archives/C6XMUEDCN/p1579485784018800?thread_ts=1579333982.005200&cid=C6XMUEDCN) if you are not in a channel that you think you need access to, reach out. 
 ## Helpful Links: 
 
 [GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
