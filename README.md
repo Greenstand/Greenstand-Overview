@@ -7,7 +7,9 @@ We are here to make the world a cooler, richer and greener place.
 ## Development needs as of 02/29/2020
 
 Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWE3N2UwYjYyNWJiNzNlMzgzYjUyZDEwODVhNDVhYTZhNmJlZDc2NTM2MTkyODcxM2U3OWJlZWMxN2FhNWJkNWU) and let’s figure out how to leverage your skills. Don't be shy. There are lots to a do and a great community to plug into!
-** See Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md) below**
+
+
+**See Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md) below**
 
 - HTML/JS - Both our web map and our admin panel need HTML and Javascript support on the frontend (React.js, google maps, query).  And API work on backend (node.js).
 
