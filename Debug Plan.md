@@ -1,4 +1,4 @@
-# Debug plan (08/22/2018)
+# Debug plan (03/2020)
 
 ### Goal: Create a place to log small issues and collect data on bugs, complaints, and potential issue without cluttering GitHub Issues
 
