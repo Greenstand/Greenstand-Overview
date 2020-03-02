@@ -67,10 +67,10 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 #### Tree Updates
 + Linking tree updates to correct tree using object recognition, GPS, and Machine learning.
 
-### IOS
+### IOS (Treetracker on iStore)
 
 ### Link donations to individual trees or groups of trees
-**Future**
+## Future Development
 ### Advanced GIS features and Data Analysis
 
 #### Planting planning
