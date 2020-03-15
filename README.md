@@ -4,32 +4,30 @@ We are here to make the world a cooler, richer and greener place.
 
 **Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map can be embedded on other organizations' websites displaying their planted and mapped trees. 
 
-## Development needs as of 02/29/2020
+## Development needs as of March 2020
 
 Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWE3N2UwYjYyNWJiNzNlMzgzYjUyZDEwODVhNDVhYTZhNmJlZDc2NTM2MTkyODcxM2U3OWJlZWMxN2FhNWJkNWU) and let’s figure out how to leverage your skills. Don't be shy. There are lots to a do and a great community to plug into!
 
 
-**See Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md) below**
+- React.js - Our admin panel is build using React.js, and our web map uses jquery but needs to be ported to React.js.   We have new designs for the web map that need to be implemented and made mobile compliant.
 
-- HTML/JS - Both our web map and our admin panel need HTML and Javascript support on the frontend (React.js, google maps, query).  And API work on backend (node.js).
+- Node.js, Loopback - our APIs are build on node.js express and loopback.  We need API engineers with some database experience to add features.  We also need engineers to improve our unit testing coverage.
 
-- Android - The app is functioning well, but we needs a UX overhaul to make it rock solid and easy to use for our users in the most rural areas of Africa. It needs more testing and crash debugging. 
+- Android - Need Android UI/UX engineers and individuals with experience working with cloud integrations in offline scenarios.  Experience with enhancing GPS accuracy on the Android platform is also useful.
 
-- DevOps - Currently taken up by @MattK. We have Jenkins in place and could use more support getting our CI/CD pipelines dialed in for node.js and Android.
+- iOS - We need to build a clone of our Android app in iOS.  
 
-- Node.js unit testing - We only have partial coverage of our API in our unit tests, which means we cannot reliability validate new commits for continuous deployment. We are using Mocha/Chai to write automated tests, and this should be straightforward for anyone with basic unit testing experience.
+- DevOps - We use ansible and travis CI for build and deployment automation.  Our automation coverage is partial and we need engineer with experience on these platforms to fix problems and streamline the process.
 
-- Cloud - Docker, chef, or your favorite deployment tools, help us automate the rollout of new features to our production infrastructure.
+- Cloud - Scaling and security analysis is needed.
 
-- Database - Treetracker is currently powered by postGRES/postGIS. As our database grows to millions of trees, our clustering algorithms are going to need aggressive optimization.
+- Database - Database adminstration is need to continue refining our backend systems.
 
-- Image processing - blurred/invalid image detection, duplicate image detection. Let's get our analysis pipeline rolling.
+- Image processing - Duplicate image detection, species detection. Let's get our analysis pipeline rolling.
 
-- Security Review
+- Quality Control - Need quality control engineers to understand use cases and be available for robustly testing builds before rollout.
 
-- Quality Control
-
-## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our long term development plans
+## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
 # Contributing to The Cause
 Help us star and fork our repositories.
