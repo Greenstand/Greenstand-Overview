@@ -8,54 +8,50 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Android
 
-+ Fix critical bugs
-+ Work on UX/UI
-+ GPS coordinate accuracy enhancement
-**(Future)**
-+ Planter Feedback (display of which images are not valid/why) 
-+ Tree Tracker Money app flavor (tageting planters who are being paid)
-+ Planter Feedback (display of which images are not valid/why) 
-+ Money earned counter for the planter
-
++ Deploy data pipeline into production
++ Integrate payments API for Treetracker Pay app
++ Integrate messages/feedback API for planter feedback
++ GPS coodinate accuracy enhancement
++ Continue iterative improvements to UI/UX
++ Refine build automation / dev ops
 
 ### Web Map
 
-+ Stylize dialog
-+ Auto pop out when the map is opened to specific trees
-+ A charts page
-+ Different impact Panels (Planter info, Org info, Tree info, Wallet Info)
-+ Filter by project / organizations
-+ Filter by region
-+ Filter by date
++ Sharing, bill of value, and UI/UX enhancements to web map wallet view
++ Impact panels for planters and organizations
++ Timeline filtering
 
-### API
+### Token Trading API
 
-+ Create tree endpoints filtered by location or user
-+ Access control on the API  (**Underway**)
-  
++ Implement generic trading between wallets (send/receive tokens)
+
+
 ### Cloud
 
-+ SSL (https) Dev Server
-+ Scalable Infrastructure / Load Balancing
-+ Backups
++ Develop and improve ansible scripting for deployment automation
++ Improve blue/green deployment process
++ 
+
+
+### Data Analysis
+
++ R&D for tree data point matching feature (update feature)
++ R&D for improving GPS accuracy using kalman filtering and planter movement scripting
++ Analysis of planter activity patterns
++ Automated duplicate screening
++ Cloud image analysis to sort images based on tags (grown, hole, etc..)
++ Machine Learning species verification
+
 
 ### Dev Ops
 + Deployments
 + Automated unit testing
 
 ### Admin Panel
-+ User verification / login
-+ Species Tag 
-+ Visualize planters
-+ Token Validation
++ Planter quality control and management, activity metrics
 + Duplicate indentification
-+ Update feature
 
-## Data Quality
-+ Planter feedback / monitary deduction for poor quality data.
-+ Filtering algorithms
-+ Cloud image analysis to sort images based on tags (grown, hole, etc..)
-+ Machine Learning image and species verification
+
 
 #### Data management
 + Identifying optimal phones/hardware 
@@ -64,8 +60,6 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
 
-#### Tree Updates
-+ Linking tree updates to correct tree using object recognition, GPS, and Machine learning.
 
 ### Link donations to individual trees or groups of trees
 
