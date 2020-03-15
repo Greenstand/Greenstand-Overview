@@ -35,7 +35,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 Help us star and fork our repositories.
 
 ### Join The team
-* Fill out the [Join-the-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
+* Fill out the [Join-the-tech-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
 
 * Ask to be added to the team on Github. 
 
@@ -61,14 +61,18 @@ Help us star and fork our repositories.
 ## Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
 
    * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
-   * Kotlin Issues: [Android](https://github.com/Greenstand/treetracker-android/issues)
+   * Kotlin Issues: [Android App](https://github.com/Greenstand/treetracker-android/issues)
        
    * Java Script Issues:
           [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
           [Web map issues](https://github.com/Greenstand/treetracker-web/issues), 
           [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues), 
           
-
+    * React Issues:
+          [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
+    * Data Related: 
+          [Data Base Issues](https://github.com/Greenstand/treetracker-database/issues)
+          
 ## Project Repositories
 
 *In its most basic form, this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment. Each Data point gets turned into a tradeable token*
@@ -87,8 +91,7 @@ Help us star and fork our repositories.
 - [Treetracker Admin Wiki](https://github.com/Greenstand/treetracker-admin/wiki)
 #### [Database Migrations](https://github.com/Greenstand/treetracker-database-migrations)
 - [Database Migrations Docs](https://db-migrate.readthedocs.io/en/latest/Getting%20Started/configuration/)
-#### [Design Basics and Assets](https://github.com/Greenstand/Design)
-- [Design Wiki](https://github.com/Greenstand/Design/wiki)
+ 
 #### [Development overview](https://github.com/Greenstand/Development-Overview)
 - [Development Overview Project Board]
 - [Development Overview Wiki](https://github.com/Greenstand/Development-Overview/wiki)
@@ -121,8 +124,9 @@ Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
 * Keep your messages in the relevant channels - talk about android in the android channel etc..
 * Ask any question - we are friendly and all learning together. General tech questions go in #development, other questions in #general, Android questions in #android etc.
 * Pointless chatter goes in #random channel
-* Opening *Threads* to reply keeps channels cleaner.
-* A list of all channels is found [here](https://greenstand.slack.com/archives/C6XMUEDCN/p1579485784018800?thread_ts=1579333982.005200&cid=C6XMUEDCN) if you are not in a channel that you think you need access to, reach out. 
+* Use *Threads* to reply keeps channels cleaner.
+* A list of ALL channels is found pinned to the Genneral Channel if you are not in a channel that you think you need access to, reach out. 
+* 
 ## Helpful Links: 
 
 [GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
