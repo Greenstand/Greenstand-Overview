@@ -67,11 +67,11 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 #### Tree Updates
 + Linking tree updates to correct tree using object recognition, GPS, and Machine learning.
 
-### IOS (Treetracker on iStore)
-
 ### Link donations to individual trees or groups of trees
-## Future Development
+
 ### Advanced GIS features and Data Analysis
+
+## Future Development
 
 #### Planting planning
 + Notify planters to check on particular trees
@@ -82,3 +82,5 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 
 ### Tree Token Trading
 + Ability to trade the "ownership" of tree tokens for real money or services.
+
+### IOS (Treetracker on iStore)
