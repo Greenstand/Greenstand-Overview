@@ -104,6 +104,7 @@ API's
 If you have not heard of a **pull request** it is time for you to join over 27 million developers and learn this version control platform. There are lots of cool articles to get you up to speed: [Github Introduction](https://guides.github.com/introduction/flow/) [Forking a Repository in Github](https://help.github.com/articles/fork-a-repo/), [Synicing a Fork in Github](https://help.github.com/articles/syncing-a-fork/)
 
 **We use the Fork and Pull model.**
+Pro Tip: Keep pull requests small and focused on the issue you are solving. (Large changes in code are much harder to accept)
 
 Basics: 
 * Fork the repository
