@@ -128,7 +128,7 @@ Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
 * 
 ## Helpful Links: 
 
-[GreenStand Coding Style Guide](https://github.com/Greenstand/Development-Overview/blob/master/StyleGuide.md) for coding style rules 
+[GreenStand Coding Style Guide](Coding-Style-Guide.md) for coding style rules 
 
 ## Contacts: 
 - [Slack Link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
