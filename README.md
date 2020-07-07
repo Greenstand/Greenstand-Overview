@@ -113,12 +113,12 @@ Basics:
 * Report problems.
 
 ### Stay up to date with Git!
-To avoid merge conflicts help us out by keeping your fork up to date. Rebase your forked and local repositories from the greenstand repository before you start coding and before a pull request.
+To avoid merge conflicts help us out by keeping your fork up to date. Rebase your forked and local repositories from the Greenstand repository before you start coding and before a pull request.
 1. Switch to your local master branch.
 ```
 git switch master
 ```
-2. Add the greenstand repository as a remote and call it upstream.
+2. Add the Greenstand repository as a remote and call it upstream.
 ```
 git remote add upstream https://github.com/greenstand/repo.git
 ```
