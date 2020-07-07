@@ -130,7 +130,7 @@ git fetch upstream
 ```
 git rebase upstream/master
 ```
-5. Push updates to your forked master on github.
+5. Push updates to your forked master.
 ```
 git push origin master
 ```
