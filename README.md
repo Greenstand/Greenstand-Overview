@@ -114,36 +114,33 @@ Basics:
 
 ### Stay up to date with Git!
 To avoid merge conflicts help us out by keeping your fork up to date. Rebase your forked and local repositories from the greenstand repository before you start coding and before a pull request.
-1. Switch to master branch
+1. Switch to your local master branch.
 ```
 git switch master
 ```
-2. Add remote repo and call it upstream
+2. Add the greenstand repository as a remote and call it upstream.
 ```
 git remote add upstream https://github.com/greenstand/repo.git
 ```
-3. Fetch all branches of remote upstream
+3. Fetch all branches of the remote repository.
 ```
 git fetch upstream
 ```
-4. Rebase your local master with the upstream master
+4. Rebase your local master with the upstream master branch.
 ```
 git rebase upstream/master
 ```
-5. Push updates to your forked master
+5. Push updates to your forked master on github.
 ```
 git push origin master
 ```
-6. Switch to your branch
+6. Switch to your branch then merge the local master to your branch.
 ```
 git switch yourbranch
-```
-7. Merge master to your branch
-```
 git merge master
 ```
-8. Resolve conflicts and complete merge
-9. Create pull request
+8. Resolve merge conflicts and complete merge.
+9. Resume coding or create a pull request.
 
 ### Slack Basics
 [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWZmNjM3YzY5N2Q0MzQ5YTM4OGZkMWJhM2U4MTkyYjI2NjhkN2YxNTRiMDIwNWQ5ZTVlNDczYzBjZmMxYzM2ZjU)
