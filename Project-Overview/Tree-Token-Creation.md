@@ -6,10 +6,12 @@
 
 ## Core ideas: 
 - The token has a market-driven value. 
-- All tokens are backed by a tree verification(s). 
+- All tokens are backed by tree verification(s). 
 - One can own fractions of tree impact with tokens.
-- Greenstand sets standard to validate tokens
-- Tokens can be bought, soild and traded indipendent of Greenstand
+- Greenstand sets and maintains tree validation standard.
+- Validated trees on Greenstand platform produce tokens that are assigned to a users digital wallet.
+- Tokens can be bought, sold and traded (token economics) independent of Greenstand.
+- The network of reforestation organizations and their respecitve commmunity of supporters would determine value of tree tokens.   
 
 # Tree Token Value at Creation
 
@@ -17,7 +19,7 @@
 - 1 token = one tree verification (Geotagged time-stamped image of a tree).
 - Creation Limit = 1 per tree per 28 days cycle.
 
-GreenStand is paying tree planters in local currency per token 
+Greenstand is paying tree planters in local currency per token 
 
 ### Current Shortcomings 
 This system doesn't account for:
@@ -26,7 +28,7 @@ This system doesn't account for:
 - Species diversity
 - Delays in tracking
 
-For example, Sarah tracks his Baobab tree once every 3 months and only gets one token each time she tracks at 3.5 cents for an awesome tree that is challenging to keep alive. 
+For example, Sarah tracks their Baobab tree once every 3 months and receives one token each time they track at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
 ### Possible Solution:
 
