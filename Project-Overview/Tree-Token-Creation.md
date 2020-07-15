@@ -8,16 +8,16 @@
 - The token has a market-driven value. 
 - All tokens are backed by tree verification(s). 
 - One can own fractions of tree impact with tokens.
-- Greenstand sets and maintains tree validation standard.
-- Validated trees on Greenstand platform produce tokens that are assigned to a users digital wallet.
-- Tokens can be bought, sold and traded (token economics) independent of Greenstand.
-- The network of reforestation organizations and their respecitve commmunity of supporters would determine value of tree tokens.   
+- Greenstand sets and maintains a tree validation standard.
+- Validated trees on Greenstand platform produce tokens that are assigned to a user's digital wallet.
+- Tokens can be bought, sold, and traded (token economics) independent of Greenstand.
+- The network of reforestation organizations and their respective community of supporters would determine the monitary value of tokens.   
 
 # Tree Token Value at Creation
 
 ## Current system 
 - 1 token = one tree verification (Geotagged time-stamped image of a tree).
-- Creation Limit = 1 per tree per 28 days cycle.
+~- Creation Limit = 1 per tree per 28 days cycle.~
 
 Greenstand is paying tree planters in local currency per token 
 
@@ -31,8 +31,8 @@ This system doesn't account for:
 For example, Sarah tracks their Baobab tree once every 3 months and receives one token each time they track at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
 
-### Value Factor (Trokens)
-An algorithm that adds a realitive value factor to individual tree captures Troken = Token * Value Factors.
+### Value Factor (Troken)
+An algorithm that adds a relative value factor to individual tree captures *# Trokens = Token * Value Factors.*
 
 Value Factor compensates for:
   - unique environmental challenges
@@ -43,8 +43,8 @@ Value Factor compensates for:
   - Other challanges
 
 ### Flagged tokens
- Invalid trees (dead trees, duplicates, miss matched) are flagged and possibly removed from the system
- They can be credited to the buyers account and planters 'account payable' is debited.
+ Invalid trees (dead trees, duplicates, miss-matched) are flagged and possibly removed from the system
+ They can be credited to the buyer's account and planters 'account payable' is debited.
 
 ### Possible Solution to Token Ownership Issues:
 
