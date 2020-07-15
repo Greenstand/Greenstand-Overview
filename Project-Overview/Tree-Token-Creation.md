@@ -30,30 +30,34 @@ This system doesn't account for:
 
 For example, Sarah tracks their Baobab tree once every 3 months and receives one token each time they track at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
-### Possible Solution:
 
-### Seed Tokens and Filler tokens
-
-#### Seed Token:
-An update verification of a tree that can spawn interim tokens.
- 
-#### Filler Tokens:
-An interim token fabricated by a lapse in two seed tokens.  
-Filler Tokens:
-  - Have a reduction factor of 'x' to incentivize tracking
-  - Can not be fabricated by two separate planters
-  - Can not be generated 'x' months after a Seed Token
-  - Must link to corresponding Seed Token Verification updates
-Number of tokens = months since last verification of that tree?
-
-### Value Factor
-An algorithm allowing one tree verification to create multiple tokens: # tokens = tree update * (Value Factor).
+### Value Factor (Trokens)
+An algorithm that adds a realitive value factor to individual tree captures Troken = Token * Value Factors.
 
 Value Factor compensates for:
   - unique environmental challenges
   - Species diversity
   - Unique Species 
   - Other ecological value
+  - actual tree growth
   - Other challanges
 
-### Flagged tokens (dead trees, duplicates, miss matched) are removed from the system, credited to the buyers account and planters 'account payable' is debited.
+### Flagged tokens
+ Invalid trees (dead trees, duplicates, miss matched) are flagged and possibly removed from the system
+ They can be credited to the buyers account and planters 'account payable' is debited.
+
+### Possible Solution to Token Ownership Issues:
+
+~#### Seed Tokens and Filler tokens~
+
+~### Seed Token:~
+~An update verification of a tree that verifies interim tokens.~
+ 
+~#### Filler Tokens:~
+~An interim token fabricated by a lapse in two seed tokens.~  
+~Filler Tokens:~
+  ~- Have a reduction factor of 'x' to incentivize tracking~
+  ~- Can not be fabricated by two separate planters~
+  ~- Can not be generated 'x' months after a Seed Token~
+  ~- Must link to corresponding Seed Token Verification updates~
+~Number of tokens = months since last verification of that tree?~
