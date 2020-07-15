@@ -21,7 +21,7 @@
 
 Greenstand is paying tree planters in local currency per token 
 
-### Current Shortcomings 
+### Current Opportunities 
 This system doesn't account for:
 - Environmental Challenges
 - Special trees
