@@ -4,7 +4,7 @@ We are here to make the world a cooler, richer and greener place.
 
 **Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map can be embedded on other organizations' websites displaying their planted and mapped trees. 
 
-## Development needs as of March 2020
+## Development needs as of Aug 2020
 
 Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWE3N2UwYjYyNWJiNzNlMzgzYjUyZDEwODVhNDVhYTZhNmJlZDc2NTM2MTkyODcxM2U3OWJlZWMxN2FhNWJkNWU) and let’s figure out how to leverage your skills. Don't be shy. There are lots to a do and a great community to plug into!
 
@@ -25,7 +25,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 
 - Image processing - Duplicate image detection, species detection. Let's get our analysis pipeline rolling.
 
-- Quality Control - Need quality control engineers to understand use cases and be available for robustly testing builds before rollout.
+- Quality Control - Need quality control engineers to understand use cases and be available for robust testing on builds before rollout. This is often testing new features on our admin panel, webmap or mobile app. If you can find a broken link or a button that doesn't work, you have found a great way to contribute and get to know the project. 
 
 ## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
@@ -65,10 +65,10 @@ Help us star and fork our repositories.
           [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
           [Web map issues](https://github.com/Greenstand/treetracker-web/issues), 
           [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues), 
-          
-    * React Issues:
+    
+   * React Issues:
           [Admin Panel](https://github.com/Greenstand/treetracker-admin/issues), 
-    * Data Related: 
+   * Data Related: 
           [Data Base Issues](https://github.com/Greenstand/treetracker-database/issues)
           
 ## Project Repositories
@@ -155,6 +155,7 @@ Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
 * Pointless chatter goes in #random channel
 * Use *Threads* to reply keeps channels cleaner.
 * A list of ALL channels is found pinned to the Genneral Channel if you are not in a channel that you think you need access to, reach out.
+
 ## Helpful Links: 
 
 [GreenStand Coding Style Guide](Coding-Style-Guide.md) for coding style rules 
