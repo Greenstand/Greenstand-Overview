@@ -22,7 +22,7 @@
 Greenstand is paying tree planters in local currency per token 
 
 ### Current Opportunities 
-This system doesn't account for:
+This system can account for:
 - Environmental Challenges
 - Special trees
 - Species diversity
@@ -31,7 +31,7 @@ This system doesn't account for:
 For example, Sarah tracks their Baobab tree once every 3 months and receives one token each time they track at 3.5 cents for an awesome tree that is challenging to keep alive. 
 
 
-### Value Factor (Troken)
+### Value Factor (Troken or Trings)
 An algorithm that adds a relative value factor to individual tree captures *# Trokens = Token * Value Factors.*
 
 Value Factor compensates for:
