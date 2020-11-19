@@ -4,6 +4,8 @@ We are here to make the world a cooler, richer and greener place.
 
 **Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin](https://github.com/Greenstand/treetracker-admin) and then displayed and shared via tokens/links on the [treetracker-web-map](https://github.com/Greenstand/treetracker-web-map). This map can be embedded on other organizations' websites displaying their planted and mapped trees. 
 
+Join our teams: https://github.com/Greenstand/Development-Overview/wiki/Teams
+
 ## Development needs as of Aug 2020
 
 Here are immediate and long-term needs. Here are a few, if you don’t see a project that fits, come check in on [Slack link](https://join.slack.com/t/greenstand/shared_invite/enQtMjcyMzgyMjk4NzU3LWE3N2UwYjYyNWJiNzNlMzgzYjUyZDEwODVhNDVhYTZhNmJlZDc2NTM2MTkyODcxM2U3OWJlZWMxN2FhNWJkNWU) and let’s figure out how to leverage your skills. Don't be shy. There are lots to a do and a great community to plug into!
