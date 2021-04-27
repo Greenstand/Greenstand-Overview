@@ -35,7 +35,7 @@ Here are immediate and long-term needs. Here are a few, if you don’t see a pro
 Help us star and fork our repositories.
 
 ### Join The team
-* Fill out the [Join-the-tech-team-form](https://docs.google.com/forms/d/e/1FAIpQLSe61HDJKVH16vtTxhXpbwCH-wTVN1e6XoVU1riWjJ-ne5SIiA/viewform?usp=sf_link)
+* Fill out the [Join-the-tech-team-form](https://forms.gle/AHms4CN1c3vAyUmc6)
 
 * Ask to be added to the team on Github. 
 
