@@ -2,7 +2,7 @@
 
 This project coordinates tree planting employment for people living in extreme poverty.
 
-See [Contributing](https://github.com/Greenstand/Development-Overview/blob/master/Contributing.md) 
+See https://greenstand.gitbook.io/engineering/#welcome
 
 ## Immediate Development Targets (Core Functionality)
 
@@ -56,6 +56,9 @@ See [Contributing](https://github.com/Greenstand/Development-Overview/blob/maste
 ### Admin Panel
 + Planter quality control and management, activity metrics
 + Duplicate indentification
++ Planter image management
++ additional filters
++ advanced species management (merge)
 
 ### Technical Operations
 + Quality control
