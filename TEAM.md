@@ -56,14 +56,27 @@ Open - renewal / expiration date: 31 Dec 2022
 - Lead Jonathan Muller, renewal / expiration date: 31 Dec 2022
 
 ## Microservice
-- Team Lead Open
-
+- Team Lead: @dadiorchen
 - renewal / expiration date: 31 Dec 2022
 
-## Wallet Microservice Team
+### Wallet Microservice Team
 - Team Lead: Dadiorchen
 - renewal / expiration date: 31 Dec 2022
 - Senior Engineer @Mzyau
+
+### Search Engine service
+- Team Lead: Open
+- Renewal / expiration date: 
+- Senior Engineer:
+
+## Web Map Client
+
+- Team Lead: @dadiorchen
+- Renewal / expiration date: 31 Dec 2022
+
+### Customizable Web Map Platform
+- Team Lead: Open
+- Renewal / expiration date: 
 
 ## AWS Lead
 - Open
