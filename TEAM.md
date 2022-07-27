@@ -76,6 +76,7 @@ The Search Engine team establish, maintain, and improve our search service, incl
 - Renewal / expiration date: 31 Dec 2022
 
 ### Customizable Web Map Platform
+  Customizable web map is a playground and feature for our organization paterner to custom their dedicated web map app with their own brand, color and syste. 
 - Team Lead: @RubenSmn 
 - Renewal / expiration date: 27 Oct 2022
 
