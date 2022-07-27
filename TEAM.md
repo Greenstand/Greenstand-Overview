@@ -65,8 +65,9 @@ Open - renewal / expiration date: 31 Dec 2022
 - Senior Engineer @Mzyau
 
 ### Search Engine service
-- Team Lead: Open
-- Renewal / expiration date: 
+The Search Engine team establish, maintain, and improve our search service, including fuzz, crossing-fields search, and auto-completion service, and also provide support to clients that are going to use this service, like the web map client search feature.
+- Team Lead: @kparikh9 
+- Renewal / expiration date: 31 Dec 2022
 - Senior Engineer:
 
 ## Web Map Client
