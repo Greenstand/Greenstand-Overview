@@ -67,7 +67,7 @@ Open - renewal / expiration date: 31 Dec 2022
 ### Search Engine service
 The Search Engine team establish, maintain, and improve our search service, including fuzz, crossing-fields search, and auto-completion service, and also provide support to clients that are going to use this service, like the web map client search feature.
 - Team Lead: @kparikh9 
-- Renewal / expiration date: 31 Dec 2022
+- Renewal / expiration date: 27 Oct 2022
 - Senior Engineer:
 
 ## Web Map Client
@@ -76,8 +76,8 @@ The Search Engine team establish, maintain, and improve our search service, incl
 - Renewal / expiration date: 31 Dec 2022
 
 ### Customizable Web Map Platform
-- Team Lead: Open
-- Renewal / expiration date: 
+- Team Lead: @RubenSmn 
+- Renewal / expiration date: 27 Oct 2022
 
 ## AWS Lead
 - Open
