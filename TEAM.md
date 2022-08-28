@@ -65,18 +65,24 @@ Open - renewal / expiration date: 31 Dec 2022
 - Senior Engineer @Mzyau
 
 ### Search Engine service
-- Team Lead: Open
-- Renewal / expiration date: 
-- Senior Engineer:
 
-## Web Map Client
+The fulltext search service based on Solr, to provide search feature for web map app and others.
+
+- Team Lead: @kparikh9
+- Renewal / expiration date: 7 Nov 2022
+
+
+## Web Map
 
 - Team Lead: @dadiorchen
 - Renewal / expiration date: 31 Dec 2022
 
 ### Customizable Web Map Platform
-- Team Lead: Open
-- Renewal / expiration date: 
+
+The core feature of web map app, to build custom map for organizations on Greenstand.
+
+- Team Lead: @RubenSmn
+- Renewal / expiration date: 7 Nov 2022
 
 ## AWS Lead
 - Open
