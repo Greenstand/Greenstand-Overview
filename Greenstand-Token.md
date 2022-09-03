@@ -11,7 +11,7 @@ THIS MODEL IS A GAOL AND MAY NOT ACCURATELY REPRESENT THE <span style="text-deco
 
 DOMAIN MODEL TERMIANLOGY IN THIS PAPER MAY CONFLICT WITH CURRENTLY IMPLEMENTED STRUCTURES IN THE GREENSTAND GITHUB REPOSITORIES.
 
-Readers may comment on and suggest modifications to this document via the Pull Request process, a [Google Doc](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
+Readers may comment on and suggest modifications to this document via the Pull Request process, [Google Doc](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
 
 
 ![Greenstand-Token-image](https://user-images.githubusercontent.com/25363572/188264320-4edf1541-9611-41ad-8d61-ae9c851d7675.png)
