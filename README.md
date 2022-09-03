@@ -53,9 +53,9 @@ Don't be shy. There are lots to a do and a great community to plug into!
 - Documentation - help Update and sync all documentation
 - General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
 
-## Development needs as of Aug 2022
+### Development needs as of Aug 2022
 
-Here are a few immediate and long-term needs. If you don’t see a project that fits, email us at info@greenstand.org or come check in on Slack link and let’s figure out how to leverage your skills.
+Here are a few immediate and long-term needs. If you don’t see a project that fits, keep looking, come check in on Slack link and let’s figure out how to leverage your skills.
 
 
 - General Project Boards: https://github.com/orgs/Greenstand/projects
