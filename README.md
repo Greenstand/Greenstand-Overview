@@ -2,21 +2,61 @@
 
 We are here to make the world a cooler, richer and greener place.  
 
-**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and then displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a trade service that allows people to create/register wallet and transfer token on the platform, where token represents the impact of trees, everyone who has a legal wallet account can trade tokens via tools like [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) between wallets on the platform.
+**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a service that allows people to create/register wallet and transfer tokens. These token are created from data linked to a claim of having created a ecological impact, though the tending and caring of trees. The tokens and the wallet system can be used to trade tokens via an API. [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) is a helpful tool for interacting with the wallet API
 
 See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
 See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
 
 
+## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
+
+# Contributing to The Cause
+Help us star and fork our repositories.
+
+Read up on the project:
+See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
+See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
+
+
+### Join The team
+* Fill out the [Engineering Sign Up](https://greenstand.org/contribute/volunteer)
+
+* Ask to be added to the team on Github.
+
+* If you already know how, feel free to just fork and pull.
+
+* If the words 'fork and pull' doesn't make sense, please read up on Github below.
+
+**Think Agile - Small Iterations - Clearly Defined Commits.**
+
+ * Keep your commits small - if you worked on three issues make three commits etc.
+
+ * Small commits help the reviewer
+
+ * Lots of small commits make your profile look cooler.
+
+ * When in doubt, ask. (Via Slack or Github)
+
+## Your first contribution
+
+Don't be shy. There are lots to a do and a great community to plug into!
+
+* Find a task you would like to work on by browsing the repositories' issue lists below.
+* Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel.
+* If you don't find something now, be persistent - keep asking!
+
+
+### Ongoing Needs
+
+- Quality Control - Need quality control engineers to understand use cases and be available for robust testing on builds before rollout. This is often testing new features on our admin panel, webmap or mobile app. If you can find a broken link or a button that doesn't work, you have found a great way to contribute and get to know the project.
+
+- Documentation - help Update and sync all documentation
+- General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
+
 ## Development needs as of Aug 2022
 
 Here are a few immediate and long-term needs. If you don’t see a project that fits, email us at info@greenstand.org or come check in on Slack link and let’s figure out how to leverage your skills.
 
-Don't be shy. There are lots to a do and a great community to plug into!
-
-- General Decisions - https://github.com/Greenstand/treetracker-decisions
-
-- Update and sync all documentation
 
 - General Project Boards: https://github.com/orgs/Greenstand/projects
 
@@ -41,37 +81,6 @@ Don't be shy. There are lots to a do and a great community to plug into!
 - Database - Database administration is need to continue refining our backend systems. We use PostgreSQL + PostGIS.
 
 - Image processing - Duplicate image detection, species detection. Let's get our analysis pipeline rolling.
-
-- Quality Control - Need quality control engineers to understand use cases and be available for robust testing on builds before rollout. This is often testing new features on our admin panel, webmap or mobile app. If you can find a broken link or a button that doesn't work, you have found a great way to contribute and get to know the project.
-
-## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
-
-# Contributing to The Cause
-Help us star and fork our repositories.
-
-### Join The team
-* Fill out the [Engineering Sign Up](https://greenstand.org/contribute/volunteer)
-
-* Ask to be added to the team on Github.
-
-* If you already know how, feel free to just fork and pull.
-
-* If the words 'fork and pull' doesn't make sense, please read up on Github below.
-
-**Think Agile - Small Iterations - Clearly Defined Commits.**
-
- * Keep your commits small - if you worked on three issues make three commits etc.
-
- * Small commits help the reviewer
-
- * Lots of small commits make your profile look cooler.
-
- * When in doubt, ask. (Via Slack or Github)
-
-## Your first contribution
-* Find a task you would like to work on by browsing the repositories' issue lists below.
-* Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel.
-* If you don't find something now, be persistent - keep asking!
 
 ## Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
 
