@@ -2,7 +2,7 @@
 
 We are here to make the world a cooler, richer and greener place.  
 
-**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and then displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a trade service that allows people to create/register wallet and transfer token on the platform, where token represend the impact of trees, everyone who has a legal wallet account can trade tokens via tools like [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) bewteen walltes on the platform. 
+**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are to be analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and then displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a trade service that allows people to create/register wallet and transfer token on the platform, where token represents the impact of trees, everyone who has a legal wallet account can trade tokens via tools like [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) between wallets on the platform.
 
 See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
 See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
@@ -38,7 +38,7 @@ Don't be shy. There are lots to a do and a great community to plug into!
 
 - Cloud - Scaling and security analysis is needed.
 
-- Database - Database adminstration is need to continue refining our backend systems. We use PostgreSQL + PostGIS.
+- Database - Database administration is need to continue refining our backend systems. We use PostgreSQL + PostGIS.
 
 - Image processing - Duplicate image detection, species detection. Let's get our analysis pipeline rolling.
 
