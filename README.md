@@ -51,6 +51,7 @@ Don't be shy. There are lots to a do and a great community to plug into!
 - Quality Control - Need quality control engineers to understand use cases and be available for robust testing on builds before rollout. This is often testing new features on our admin panel, webmap or mobile app. If you can find a broken link or a button that doesn't work, you have found a great way to contribute and get to know the project.
 
 - Documentation - help Update and sync all documentation
+
 - General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
 
 ### Development needs as of Aug 2022
