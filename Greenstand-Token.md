@@ -5,13 +5,14 @@
 
 Version: 0.0
 
-Aug 29, 2022
+Aug, 2022
 
 NOTE:  MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;">CURRENT</span> WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND
 
+Readers may comment on and suggest modifications to this document via the Pull Request process, a [Google Docs Link](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
+
 
 [TOC]
-
 
 
 ##
@@ -64,7 +65,7 @@ The model has a place in use cases that include data surrounding impact claims a
 
 Designed to increase funding efficiency and early-stage survivability of tree seedlings, the model incentivizes the existence of specific, tangible, and quantifiable ecological assets and environmental changes. Its first primary use case pays people to grow trees.
 
-By mapping planting and growing behaviors through ground-truthed data collection, the model answers, “w_ho is responsible for what impact where?”_ Growers or field workers sustain it by creating ground-truth monitoring events that ‘_capture’_ and ‘_claim’_ the state of environmental action, such as the incremental growth of a tree or the continued existence of other ecological assets.
+By mapping planting and growing behaviors through ground-truthed data collection, the model answers, “who is responsible for what impact where?”_ Growers or field workers sustain it by creating ground-truth monitoring events that ‘_capture’_ and ‘_claim’_ the state of environmental action, such as the incremental growth of a tree or the continued existence of other ecological assets.
 
 Collected field data is aggregated with external data sets and used to verify and measure the validity of claims for social impact and ecosystem services rendered. This data backs the creation of a token in a wallet chain-of-custody framework.
 
