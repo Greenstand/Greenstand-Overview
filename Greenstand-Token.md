@@ -38,7 +38,6 @@ In this paper, ‘Greenstand’ refers to any technologically independent entity
 # Background
 
 
-
 Climate change is driving the rise of an 8 trillion dollar Nature-based Solutions market. Tree planting and ground-based restoration activities constitute a significant part of the solution to climate change and planetary health, yet the current implementations have many shortcomings.
 
 The story behind pledges to plant millions, billions, and trillions of trees, is often one of dead seedlings, invasive mono-crops, and highly ineffective funding. The links between claims and impacts are most tenuous. At best, climate funds trickle to those on the ground whose sweat ultimately determines the outcome of such pledges.
