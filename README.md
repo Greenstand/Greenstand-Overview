@@ -4,18 +4,19 @@ We are here to make the world a cooler, richer and greener place.
 
 **Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a service that allows people to create/register wallet and transfer tokens. These token are created from data linked to a claim of having created a ecological impact, though the tending and caring of trees. The tokens and the wallet system can be used to trade tokens via an API. [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) is a helpful tool for interacting with the wallet API
 
-See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
-See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
+Also see:
 
+- [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
+
+- [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
+
+- [Greenstand Token](https://github.com/Greenstand/Development-Overview/blob/master/Greenstand-Token.md)
 
 ## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
 # Contributing to The Cause
-Help us star and fork our repositories.
 
-Read up on the project:
-See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
-See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
+Help us star and fork our repositories.
 
 
 ### Join The team
