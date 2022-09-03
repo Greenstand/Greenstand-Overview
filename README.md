@@ -4,22 +4,21 @@ We are here to make the world a cooler, richer and greener place.
 
 **Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a service that allows people to create/register wallet and transfer tokens. These token are created from data linked to a claim of having created a ecological impact, though the tending and caring of trees. The tokens and the wallet system can be used to trade tokens via an API. [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) is a helpful tool for interacting with the wallet API
 
-See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
-See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
-
-
-## [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
-
 # Contributing to The Cause
 Help us star and fork our repositories.
 
 Read up on the project:
+
 See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
+
 See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
 
+[Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
 ### Join The team
 * Fill out the [Engineering Sign Up](https://greenstand.org/contribute/volunteer)
+
+* Join us on Slack
 
 * Ask to be added to the team on Github.
 
@@ -39,8 +38,6 @@ See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12Xc
 
 ## Your first contribution
 
-Don't be shy. There are lots to a do and a great community to plug into!
-
 * Find a task you would like to work on by browsing the repositories' issue lists below.
 * Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel.
 * If you don't find something now, be persistent - keep asking!
@@ -53,9 +50,27 @@ Don't be shy. There are lots to a do and a great community to plug into!
 - Documentation - help Update and sync all documentation
 - General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
 
+
 ## Development needs as of Aug 2022
 
 Here are a few immediate and long-term needs. If you don’t see a project that fits, email us at info@greenstand.org or come check in on Slack link and let’s figure out how to leverage your skills.
+ 
+ 
+* Find a task you would like to work on by browsing the repositories' issue lists below.
+* Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel.
+* If you don't find something now, be persistent - keep asking!
+
+### Ongoing Needs
+
+- Quality Control - Need quality control engineers to understand use cases and be available for robust testing on builds before rollout. This is often testing new features on our admin panel, webmap or mobile app. If you can find a broken link or a button that doesn't work, you have found a great way to contribute and get to know the project.
+
+- Documentation - help Update and sync all documentation
+
+- General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
+
+### Development needs as of Aug 2022
+
+Here are a few immediate and long-term needs. If you don’t see a project that fits, keep looking, come check in on Slack link and let’s figure out how to leverage your skills.
 
 
 - General Project Boards: https://github.com/orgs/Greenstand/projects
@@ -71,7 +86,7 @@ Here are a few immediate and long-term needs. If you don’t see a project that 
 - Node.js, - our APIs are build on node.js express.  We need API engineers with some database experience to add features.  We also need engineers to improve our testing coverage.
 
 - Android - Need Android UI/UX engineers and individuals with experience working with cloud integrations in offline scenarios.  Experience with enhancing GPS accuracy on the Android platform is also useful.
-
+ 
 - iOS - We need to build a clone of our Android app in iOS.  
 
 - DevOps - We use Github Action, Kubernetes, ArgoCD for build and deployment automation.  Our automation coverage is partial and we need engineer with experience on these platforms to fix problems and streamline the process.
