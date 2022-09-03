@@ -1,5 +1,6 @@
 
 # Greenstand Token
+![Greenstand-Token-image](https://user-images.githubusercontent.com/25363572/188264320-4edf1541-9611-41ad-8d61-ae9c851d7675.png)
 
 **A Framework for Non-fungible Tokens linked to Environmental Assets**
 
