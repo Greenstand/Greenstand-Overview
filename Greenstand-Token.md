@@ -12,8 +12,6 @@ NOTE:  MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;"
 Readers may comment on and suggest modifications to this document via the Pull Request process, a [Google Docs Link](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
 
 
-[TOC]
-
 
 ##
 
@@ -109,19 +107,19 @@ All Greenstand Tokens contain captures, claims, and tagged attributes.
 #### Capture
 
 
-    A _capture_ is a data package that ‘captures’ the environmental state at a specific time to provide proof of the existence of a new or previously existing ecological asset or evidence of an activity linked to the creation of such an asset. As monitoring events, _captures_ produce data on interactions between an entity (such as a grower) and the environment; a _capture_ is the base of a claim.
+A _capture_ is a data package that ‘captures’ the environmental state at a specific time to provide proof of the existence of a new or previously existing ecological asset or evidence of an activity linked to the creation of such an asset. As monitoring events, _captures_ produce data on interactions between an entity (such as a grower) and the environment; a _capture_ is the base of a claim.
 
 
 #### Claim
 
 
-    _Claims _concerning the type and quality of impact provided, impact responsibility, and ownership, differ in validity. Claims may be considered false, conflicting, or true.
+_Claims _concerning the type and quality of impact provided, impact responsibility, and ownership, differ in validity. Claims may be considered false, conflicting, or true.
 
 
 #### Tagged Attributes
 
 
-    _Tags_ represent the capture’s identified details and attach through verification and the amalgamation of available data sets. Tagged attributes may include any array of data related to the capture, such as tree species or claim issues.
+_Tags_ represent the capture’s identified details and attach through verification and the amalgamation of available data sets. Tagged attributes may include any array of data related to the capture, such as tree species or claim issues.
 
 A capture and a claim create a new token that provides a verifiable record of the impact claim at a per grower and individual plant level.
 
@@ -457,7 +455,7 @@ Payments and revenues for sealing are made to Greenstand Nodes using a contract 
 
 # Definitions
 
-**API **
+**API**
 
 [APIs or Application Programming interfaces](https://en.wikipedia.org/wiki/API) enable communication between computers. They facilitate communications between mobile apps and cloud-based computers and exist in most modern applications. Modern Banking systems rely heavily on API-based systems.
 
@@ -469,124 +467,125 @@ Biosequestraion refers to the capturing and storing of the atmospheric [greenhou
 **Blockchain**
 
 
-  A distributed technology where changes to the state of data or ownership claims are transparent for all parties involved.
+A distributed technology where changes to the state of data or ownership claims are transparent for all parties involved.
 
 **Broker**
 
-	An individual or entity that trades tokens.
+
+An individual or entity that trades tokens.
 
 **Capture**
 
 
-    A capture is a time-stamped, typically image-based, verification data package that provides proof of a new or existing environmental asset or an activity linked to such an asset. A capture is a data set derived from a monitoring event used to prove ownership and custody.
+A capture is a time-stamped, typically image-based, verification data package that provides proof of a new or existing environmental asset or an activity linked to such an asset. A capture is a data set derived from a monitoring event used to prove ownership and custody.
 
 **Carbon**
 
 
-    A building block of all life and a measurable substance that is temporarily stored in soils and plant life. A product of combustion and a primary cause of global warming.
+A building block of all life and a measurable substance that is temporarily stored in soils and plant life. A product of combustion and a primary cause of global warming.
 
 **Chain of custody**
 
 
-    A process of determining ownership of assets at any time and generally contains records of the sequence of custody, control, transfer, analysis, and disposition of tokens.
+A process of determining ownership of assets at any time and generally contains records of the sequence of custody, control, transfer, analysis, and disposition of tokens.
 
 **Clique Proof of Authority (EIP-225)**
 
 
-    EIP-225 is an energy-efficient protocol for a side chain of the Ethereum blockchain that uses a Proof of Authority protocol instead of Proof of Work mining protocols and is much more environmentally friendly.
+EIP-225 is an energy-efficient protocol for a side chain of the Ethereum blockchain that uses a Proof of Authority protocol instead of Proof of Work mining protocols and is much more environmentally friendly.
 
 **Conflicting Claim **
 
 
-    A token has a conflicting claim if the responsible entity is not established or if the specific environmental asset used as the base for that token has a contradictory claim. These may include attempts to violate standing contracts or leans against the supporting bio-asset.
+A token has a conflicting claim if the responsible entity is not established or if the specific environmental asset used as the base for that token has a contradictory claim. These may include attempts to violate standing contracts or leans against the supporting bio-asset.
 
 **Environmental Building Block**
 
 
-    A tangible ecosystem asset that facilitates land restoration, can be codified, and referenced.
+A tangible ecosystem asset that facilitates land restoration, can be codified, and referenced.
 
 **Field Transfer**
 
 
-    A field transfer enables the movement of a Basic Token before its claims undergo verification against a master internet-based dataset and ledger.
+A field transfer enables the movement of a Basic Token before its claims undergo verification against a master internet-based dataset and ledger.
 
 
-    It may happen as a transfer in a peer-to-peer network or as a string of requests attracted to a basic token.
+It may happen as a transfer in a peer-to-peer network or as a string of requests attracted to a basic token.
 
 **Fungible Token**
 
 
-    Fungible tokens are identical tokens and mutually exchangeable. In the Greenstand system, RVIs produce fungible tokens from Non-fungible Greenstand Tokens.
+Fungible tokens are identical tokens and mutually exchangeable. In the Greenstand system, RVIs produce fungible tokens from Non-fungible Greenstand Tokens.
 
 **Grain**
 
-	A Grain is 100th of a TRing
+A Grain is 100th of a TRing
 
 **Greenstand Token**
 
 
-    A Greenstand token is a Non-fungible environmentally backed token that facilitates the trade of Social and ecological impact. It is a Mature, Immutable, or Locked token on a Greenstand node or in the Greenstand network. A Greenstand Token is created from a Basic Token containing a data set meeting a minimum standard of data and data quality. Its value is measured using an RVI.
+A Greenstand token is a Non-fungible environmentally backed token that facilitates the trade of Social and ecological impact. It is a Mature, Immutable, or Locked token on a Greenstand node or in the Greenstand network. A Greenstand Token is created from a Basic Token containing a data set meeting a minimum standard of data and data quality. Its value is measured using an RVI.
 
 **Grower**
 
-	Entity attributed as responsible for impact creation.
+Entity attributed as responsible for impact creation.
 
 **Master Relative Value Index (RIV)**
 
 
-    The Master Relative Value Index is used to mint TRing as the network currency. Modifications to it require a consensus of the Greenstand nodes.
+The Master Relative Value Index is used to mint TRing as the network currency. Modifications to it require a consensus of the Greenstand nodes.
 
 **Nature-based Solutions**
 
 
-    “Actions to protect, sustainably manage, and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing benefits for human well-being and biodiversity.” (FAO)
+“Actions to protect, sustainably manage, and restore natural or modified ecosystems that address societal challenges effectively and adaptively, simultaneously providing benefits for human well-being and biodiversity.” (FAO)
 
 **Non-Fungible Token**
 
 
-    A unique token with unique attributes.
+A unique token with unique attributes.
 
 **Root Wallet**
 
 
-    A Root Wallet is a level of wallet permission on a Greenstand node that enables a user to make API calls that trigger the creation of new wallets and transfer requests from their own or managed wallets to any other wallet in the system. Root Wallets may grant wallet trading access to specific wallets for other users, third parties, and customers.
+A Root Wallet is a level of wallet permission on a Greenstand node that enables a user to make API calls that trigger the creation of new wallets and transfer requests from their own or managed wallets to any other wallet in the system. Root Wallets may grant wallet trading access to specific wallets for other users, third parties, and customers.
 
 **Smallholder farmer**
 
 
-    A group of approximately 1 billion people whose primary source of income comes from agricultural practices on small plots of land that they may or may not own.
+A group of approximately 1 billion people whose primary source of income comes from agricultural practices on small plots of land that they may or may not own.
 
 **Subsistence agriculture**
 
 
-    Small-scale agriculture typically involves small plots of land and entraps approximately a billion people in economic poverty.
+Small-scale agriculture typically involves small plots of land and entraps approximately a billion people in economic poverty.
 
 **Token**
 
 
-    A unique string of characters. Greenstand tokens are “tagged” with specific attributes and placed into a chain of custody system.
+A unique string of characters. Greenstand tokens are “tagged” with specific attributes and placed into a chain of custody system.
 
 **Token Change Log**
 
 
-    A token change log is an immutable log on the Greenstand network that contains a complete record of all transactions and all changes to each token’s attributes.
+A token change log is an immutable log on the Greenstand network that contains a complete record of all transactions and all changes to each token’s attributes.
 
 **Token State**
 
 
-    Pertains to which actions or operations may affect the token, such as its ability to be traded or have its attributes changed. Greenstand tokens have Basic, Mature, Blocked, Immutable, and Locked states.
+Pertains to which actions or operations may affect the token, such as its ability to be traded or have its attributes changed. Greenstand tokens have Basic, Mature, Blocked, Immutable, and Locked states.
 
 **Tree Planting**
 
 
-  Globally ‘tree planting’ is currently being counted as a “pledge” or as _any number of obscure_ actions that _may_ or may not lead to a growing tree, including the collection of funds, the transfer of funds, the dispersing of seeds, or education on planting. In the Greenstand system, “tree planting” is represented by a Greenstand Token without a parent_id.
+Globally ‘tree planting’ is currently being counted as a “pledge” or as _any number of obscure_ actions that _may_ or may not lead to a growing tree, including the collection of funds, the transfer of funds, the dispersing of seeds, or education on planting. In the Greenstand system, “tree planting” is represented by a Greenstand Token without a parent_id.
 
 **TRing**
 
 
-    TRing is the native currency of the Greenstand network. They are created by depositing Greenstand Tokens. The number of TRings produced per Greenstand Token is calculated using the Master Relative Value Index. A TRing is divisible by 100 to create Grain.
+TRing is the native currency of the Greenstand network. They are created by depositing Greenstand Tokens. The number of TRings produced per Greenstand Token is calculated using the Master Relative Value Index. A TRing is divisible by 100 to create Grain.
 
 **Wallet**
 
 
-    A wallet represents an account in a chain of custody systems for entities to maintain ownership and manage specific tokens. It is a container that holds tokens and allows them to be exchanged with other parties.
+A wallet represents an account in a chain of custody systems for entities to maintain ownership and manage specific tokens. It is a container that holds tokens and allows them to be exchanged with other parties.
