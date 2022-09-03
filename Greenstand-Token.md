@@ -1,13 +1,13 @@
 
 # Greenstand Token
 
-**A Framework for Non-fungible Tokens linked to Environmental Assets**
+## **A Framework for Non-fungible Tokens linked to Environmental Assets**
 
 Version: 0.0, Aug, 2022
 
 ### NOTE:
 
-THIS MODEL IS A GAOL AND MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;">CURRENT</span> WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND. 
+THIS MODEL IS A GAOL AND MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;">CURRENT</span> WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND.
 
 DOMAIN MODEL TERMIANLOGY IN THIS PAPER MAY CONFLICT WITH CURRENTLY IMPLEMENTED STRUCTURES IN THE GREENSTAND GITHUB REPOSITORIES.
 
