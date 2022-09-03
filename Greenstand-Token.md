@@ -1,20 +1,17 @@
 
 # Greenstand Token
-![Greenstand-Token-image](https://user-images.githubusercontent.com/25363572/188264320-4edf1541-9611-41ad-8d61-ae9c851d7675.png)
 
 **A Framework for Non-fungible Tokens linked to Environmental Assets**
 
-Version: 0.0
+Version: 0.0, Aug, 2022
 
-Aug, 2022
-
-NOTE:  MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;">CURRENT</span> WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND
+NOTE:  MAY NOT ACCURATELY REPRESENT THE <span style="text-decoration:underline;">CURRENT</span> WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND. DOMAIN MODEL TERMIANLOGY IN THIS PAPER MAY CONFLICT CURRENTLY IMPLEMENTED STRUCTURES IN THE GREENSTAND GITHUB REPOSITORIES.
 
 Readers may comment on and suggest modifications to this document via the Pull Request process, a [Google Docs Link](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
 
 
+![Greenstand-Token-image](https://user-images.githubusercontent.com/25363572/188264320-4edf1541-9611-41ad-8d61-ae9c851d7675.png)
 
-##
 
 
 # Abstract
