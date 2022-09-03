@@ -464,12 +464,12 @@ Payments and revenues for sealing are made to Greenstand Nodes using a contract 
 **[Biosequestration](https://en.wikipedia.org/wiki/Biosequestration)**
 
 
-    Biosequestraion refers to the capturing and storing of the atmospheric [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas) [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) by continual or enhanced biological processes.
+Biosequestraion refers to the capturing and storing of the atmospheric [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas) [carbon dioxide](https://en.wikipedia.org/wiki/Carbon_dioxide) by continual or enhanced biological processes.
 
 **Blockchain**
 
 
-    A distributed technology where changes to the state of data or ownership claims are transparent for all parties involved.
+  A distributed technology where changes to the state of data or ownership claims are transparent for all parties involved.
 
 **Broker**
 
@@ -579,7 +579,7 @@ Payments and revenues for sealing are made to Greenstand Nodes using a contract 
 **Tree Planting**
 
 
-    Globally ‘tree planting’ is currently being counted as a “pledge” or as _any number of obscure_ actions that _may_ or may not lead to a growing tree, including the collection of funds, the transfer of funds, the dispersing of seeds, or education on planting. In the Greenstand system, “tree planting” is represented by a Greenstand Token without a parent_id.
+  Globally ‘tree planting’ is currently being counted as a “pledge” or as _any number of obscure_ actions that _may_ or may not lead to a growing tree, including the collection of funds, the transfer of funds, the dispersing of seeds, or education on planting. In the Greenstand system, “tree planting” is represented by a Greenstand Token without a parent_id.
 
 **TRing**
 
