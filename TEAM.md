@@ -92,6 +92,18 @@ The core feature of web map app, to build custom map for organizations on Greens
 - renewal / expiration date: 31 Dec 2022
 - Team Members: @dan, @olivier
 
+## Test Automation Lead
+
+- Position status: open
+
+- Position responsibility:
+
+  We need test automation team to build:
+    * End to End test for our web applications: admin panel, web map.
+    * End to End test for mobile app: iOS, Android for treetracker.
+    * End to End test for microservices: wallet api, reporting api and so on.
+    * Load test for our microservices: query api, contract api and so on.
+
 
 # Support Teams
 
