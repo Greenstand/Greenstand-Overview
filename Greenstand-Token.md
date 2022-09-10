@@ -223,7 +223,7 @@ Basic Tokens may be placed into a holding state and blocked from trading until v
 
 Subsequent monitoring events or the amalgamation of new data may be used to establish a Blocked Token’s validity, ownership, or impact claims. A token in this state may be minted as a Mature Token when/if appropriate tags are attached, and the token is verified free of conflicting ownership claims.
 
-Note: Conflicting ownership claims may be due to contracts and leans issued against bio-assets linked to the tokens.
+Note: Conflicting ownership claims may be due to contracts and liens issued against bio-assets linked to the tokens.
 
 
 ### Immutable Token
