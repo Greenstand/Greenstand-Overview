@@ -298,7 +298,7 @@ Exporting tokens from the API-based database system to the Greenstand Network or
 
 Verified attributes attach to the token to add or subtract validity from value claims. Any number of data sets can be attached to a blocked or mutable token; additional data attached may increase or decrease value.
 
-Tags that are missing or cannot be verified are assumed not to exist** **and cannot be hard-baked or permanently coded into the token.
+Tags that are missing or cannot be verified are assumed not to exist and cannot be hard-baked or permanently coded into the token.
 
 Token attributes are associated with tags related to Environmental Impact, Social Impact, and Data quality.
 
