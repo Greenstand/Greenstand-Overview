@@ -58,7 +58,7 @@ The realization of this model creates climate-based income opportunities in remo
 
 # Greenstand Model Overview
 
-This token-based inclusive climate fin-tech creates economic opportunity for many stakeholders.
+This token-based, inclusive, climate fin-tech creates economic opportunity for many stakeholders.
 
 The model has a place in use cases that include data surrounding impact claims and environmental assets. It is flexible and adaptable to the diverse needs of the global restoration community. It has the most potential impact in rural and depleted environments with economically disadvantaged populations.
 
