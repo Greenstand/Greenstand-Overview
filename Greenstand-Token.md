@@ -131,7 +131,7 @@ Each subsequent ‘capture’ and claim or monitoring event creates a new data s
 
 ## Non-Fungible Token (NFT)
 
-The Greenstand Token is a non-fungible token (NFT), meaning they are not identical; each token holds a different claim and value proposition associated with a unique asset (e.g., a particular tree).
+The Greenstand Token is a non-fungible token (NFT), meaning tokens are not identical; each token holds a different claim and value proposition associated with a unique asset (e.g., a particular tree).
 
 Each token is made from the amalgamation of data representing the specific token’s realized impact and contains its own tags that define it. A token is valued by a Relative Value Index (RVI) according to its associated attributes and impact potentials. These Non-fungible Greenstand Tokens lay the framework to value individual trees as they grow and enable the conversion of many types of ecological impacts, such as tree growth, into fungible tokens.
 
