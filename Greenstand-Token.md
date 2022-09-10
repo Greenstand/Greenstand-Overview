@@ -120,7 +120,7 @@ _Claims _concerning the type and quality of impact provided, impact responsibili
 #### Tagged Attributes
 
 
-_Tags_ represent the capture’s identified details and attach through verification and the amalgamation of available data sets. Tagged attributes may include any array of data related to the capture, such as tree species or claim issues.
+_Tagged attributes_ represent the capture’s identified details and attach through verification and the amalgamation of available data sets. Tagged attributes may include any array of data related to the capture, such as tree species or claim issues.
 
 A capture and a claim create a new token that provides a verifiable record of the impact claim at a per grower and individual plant level.
 
