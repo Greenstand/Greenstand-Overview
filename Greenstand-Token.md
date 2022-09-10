@@ -44,7 +44,7 @@ The story behind pledges to plant millions, billions, and trillions of trees is 
 
 Enabling economic rewards for positive behaviors and outcomes related to the generation of environmental wealth has not been widely accomplished.
 
-Nearly a billion people, primarily smallholder farmers, reside near the extreme poverty line, living daily on less than the cost of a cup of coffee - their primary skill set is growing plant life. The Nature-based Solutions market can strategically activate this massive group of potential implementers through economic incentives. Mobilization at such an enormous scale must be data-driven and requires publicly accessible data sets with ubiquitous transparency and trust - this presently does not exist.
+Nearly a billion people, primarily smallholder farmers, reside near the extreme poverty line, living daily on less than the cost of a cup of coffee - yet one vital skill many have is growing plant life. The Nature-based Solutions market can strategically activate this massive group of potential implementers through economic incentives. Mobilization at such an enormous scale must be data-driven and requires publicly accessible data sets with ubiquitous transparency and trust - this presently does not exist.
 
 The Greenstand Token model is posing as a powerful solution.
 
