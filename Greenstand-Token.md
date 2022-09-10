@@ -66,7 +66,7 @@ Designed to increase funding efficiency and early-stage survivability of tree se
 
 By mapping tree planting and tree tending activities through ground-truthed data collection, the model answers, “who is responsible for what impact where?” Growers or field workers sustain it by creating ground-truth monitoring events that ‘_capture’_ and ‘_claim’_ the state of environmental action, such as the incremental growth of a tree or the continued existence of other ecological assets.
 
-Collected field data is aggregated with external data sets and used to verify and measure the validity of claims for social impact and ecosystem services rendered. This data backs the creation of a token in a wallet chain-of-custody framework.
+Collected field data is aggregated with external data sets and used to verify and measure the validity of claims for social impact and ecosystem services rendered. This data backs the creation of a token in a chain-of-custody framework.
 
 Using detailed data from individual plants and growers, the model enables a common data-driven consensus on the ‘weight’ of factors in a ‘positive impact’ by capturing, measuring, and valuing a wide variety of localized details surrounding social and ecological impacts.
 
