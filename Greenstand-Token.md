@@ -20,7 +20,7 @@ Readers may comment on and suggest modifications to this document via the Pull R
 
 # Abstract
 
-This paper describes a model and technical framework to finance environmental restoration efforts using non-fungible and fungible environmental monitoring and verification tokens derived from data on impact ownership claims and ecological change.
+This paper describes a model and technical framework to finance environmental restoration efforts using non-fungible and fungible environmental monitoring and verification tokens derived from data on ecological impact ownership claims.
 
 The model is made possible with advanced technologies, including mobile apps, data analysis tools, remote sensing systems, secure API-based wallets, and distributed blockchain technology.
 
