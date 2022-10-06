@@ -65,20 +65,23 @@ Open - renewal / expiration date: 31 Dec 2022
 - Senior Engineer @Mzyau
 
 ### Search Engine service
+
 The Search Engine team establish, maintain, and improve our search service, including fuzz, crossing-fields search, and auto-completion service, and also provide support to clients that are going to use this service, like the web map client search feature.
 - Team Lead: @kparikh9 
-- Renewal / expiration date: 27 Oct 2022
-- Senior Engineer:
+- Renewal / expiration date: 7 Nov 2022
+- Senior Engineer: The fulltext search service based on Solr, to provide search feature for web map app and others.
 
-## Web Map Client
+## Web Map
 
 - Team Lead: @dadiorchen
 - Renewal / expiration date: 31 Dec 2022
 
 ### Customizable Web Map Platform
+
   Customizable web map is a playground and feature for our organization paterner to custom their dedicated web map app with their own brand, color and syste. 
-- Team Lead: @RubenSmn 
-- Renewal / expiration date: 27 Oct 2022
+- Team Lead: @RubenSmn
+- Renewal / expiration date: 7 Nov 2022
+The core feature of web map app, to build custom map for organizations on Greenstand.
 
 ## AWS Lead
 - Open
@@ -87,6 +90,18 @@ The Search Engine team establish, maintain, and improve our search service, incl
 - @shubhom
 - renewal / expiration date: 31 Dec 2022
 - Team Members: @dan, @olivier
+
+## Test Automation Lead
+
+- Position status: open
+
+- Position responsibility:
+
+  We need test automation team to build:
+    * End to End test for our web applications: admin panel, web map.
+    * End to End test for mobile app: iOS, Android for treetracker.
+    * End to End test for microservices: wallet api, reporting api and so on.
+    * Load test for our microservices: query api, contract api and so on.
 
 
 # Support Teams
