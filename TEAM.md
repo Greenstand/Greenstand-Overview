@@ -104,6 +104,24 @@ The core feature of web map app, to build custom map for organizations on Greens
     * End to End test for microservices: wallet api, reporting api and so on.
     * Load test for our microservices: query api, contract api and so on.
 
+## DBA (Database Administrator) or Consultant
+
+- Position status: open
+
+- Position responsibility:
+
+  We need DBA to maintain our database, including:
+    * Reivew our database design and do analysis to give advise.
+    * Performance tuning and troubleshooting.
+
+## oAuth and Keycloak expert
+
+- Position status: open
+
+- Position responsibility:
+
+  We need an person who is familiar with oAuth and Keycloak to help us to design the user, auth system for us and guide us to implement it.
+
 
 # Support Teams
 
