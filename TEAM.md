@@ -66,11 +66,10 @@ Open - renewal / expiration date: 31 Dec 2022
 
 ### Search Engine service
 
-The fulltext search service based on Solr, to provide search feature for web map app and others.
-
-- Team Lead: @kparikh9
+The Search Engine team establish, maintain, and improve our search service, including fuzz, crossing-fields search, and auto-completion service, and also provide support to clients that are going to use this service, like the web map client search feature.
+- Team Lead: @kparikh9 
 - Renewal / expiration date: 7 Nov 2022
-
+- Senior Engineer: The fulltext search service based on Solr, to provide search feature for web map app and others.
 
 ## Web Map
 
@@ -79,10 +78,10 @@ The fulltext search service based on Solr, to provide search feature for web map
 
 ### Customizable Web Map Platform
 
-The core feature of web map app, to build custom map for organizations on Greenstand.
-
+  Customizable web map is a playground and feature for our organization paterner to custom their dedicated web map app with their own brand, color and syste. 
 - Team Lead: @RubenSmn
 - Renewal / expiration date: 7 Nov 2022
+The core feature of web map app, to build custom map for organizations on Greenstand.
 
 ## AWS Lead
 - Open
