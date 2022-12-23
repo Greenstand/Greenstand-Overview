@@ -14,15 +14,17 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + GPS coordinate accuracy enhancement
 + Continue iterative improvements to UI/UX
 + Refine build automation / dev ops
++  unit tests 
++  run UI tests on our CI system
 
 ### iOS
 
-+ Implement native clone of Android app
-+ Implement bulkpack upload
++ Add Notes Feature
++ Add token sending feature
 
 ### Web Map
 
-+ Sharing, bill of value, and UI/UX enhancements to web map wallet view
++ Sharing, Tring value, and UI/UX enhancements to web map wallet view
 + Impact panels for planters and organizations
 + Timeline filtering (complete)
 
