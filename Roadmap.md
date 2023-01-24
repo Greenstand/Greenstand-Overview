@@ -6,30 +6,40 @@ See https://greenstand.gitbook.io/engineering/#welcome
 
 ## Immediate Development Targets (Core Functionality)
 
-### Android
+### Android Tree Tracker
 
 + Deploy data pipeline into production (Complete)
-+ Integrate payments API for Treetracker Pay app (Cancelled)
 + Integrate messages/feedback API for planter feedback (Complete)
 + GPS coordinate accuracy enhancement
 + Continue iterative improvements to UI/UX
 + Refine build automation / dev ops
-+  unit tests 
-+  run UI tests on our CI system
++ Unit tests 
++ Run UI tests on our CI system
++ Continued work to reduce tracking time
 
-### iOS
+### Android Greenstand Token Trading App
++ Credial creation
++ Basic send feature to exisisting walllet
++ Send/Gift to non exisiting wallet
 
+
+### iOS Greenstand Token Trading App 
++ Credial creation
++ Basic send feature to exisisting walllet
++ Send/Gift to non exisiting wallet
+
+### iOS Tree Tracker
 + Add Notes Feature
 + Add token sending feature
 
 ### Web Map
 
-+ Sharing, Tring value, and UI/UX enhancements to web map wallet view
++ Sharing, Bill of value (TRings), and UI/UX enhancements to web map wallet view
 + Impact panels for planters and organizations
-+ Timeline filtering (complete)
-
++ Integrate Wallet 
++ 
 ### Token Trading API
-
+ 
 + Implement generic trading between wallets (Complete)
 + Streamline process for wallet creation (Complete)
 + Automate credential creation and delivery
@@ -47,6 +57,9 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + Develop and improve ansible scripting for deployment automation
 + Improve blue/green deployment process
 + Manage and migration of dev & test infrastructures
++ Cdn optimization in the prod environment
++ Keycloak
++ Solr
 
 ### Data Analysis
 
@@ -64,6 +77,7 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + Planter image management
 + additional filters
 + advanced species management (merge)
++ Integrate Wallet tools
 
 ### Technical Operations
 + Quality control
