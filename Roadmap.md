@@ -1,8 +1,8 @@
-# Roadmap for Treetracker Project (Reviewed March 2020)
+# Roadmap for Treetracker Project (Reviewed Jan 2023)
 
-This project coordinates tree planting employment for people living in extreme poverty.
+Technology that enables payments for the creation of environmental impact.
 
-See https://greenstand.gitbook.io/engineering/#welcome
+Also see https://greenstand.gitbook.io/engineering/#welcome
 
 ## Immediate Development Targets (Core Functionality)
 
@@ -10,27 +10,26 @@ See https://greenstand.gitbook.io/engineering/#welcome
 
 + Deploy data pipeline into production (Complete)
 + Integrate messages/feedback API for planter feedback (Complete)
-+ GPS coordinate accuracy enhancement
-+ Continue iterative improvements to UI/UX
-+ Refine build automation / dev ops
++ GPS coordinate accuracy enhancement (ongoing)
++ Continue iterative improvements to UI/UX (ongoing)
++ Reduced tracking time per tree (ongoing)
++ Refine build automation/dev ops
 + Unit tests 
 + Run UI tests on our CI system
-+ Continued work to reduce tracking time
 
 ### Android Greenstand Token Trading App
 + Credial creation
-+ Basic send feature to exisisting walllet
-+ Send/Gift to non exisiting wallet
-
++ Basic send feature to existing walllet
++ Send/Gift to non-existing wallet
 
 ### iOS Greenstand Token Trading App 
 + Credial creation
 + Basic send feature to exisisting walllet
-+ Send/Gift to non exisiting wallet
++ Send/Gift to non-existing wallet
 
 ### iOS Tree Tracker
 + Add Notes Feature
-+ Add token sending feature
++ Add token field-transfer-request/send feature
 
 ### Web Map
 
@@ -79,10 +78,9 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + advanced species management (merge)
 + Integrate Wallet tools
 
-### Technical Operations
+### Operational Challenges to Overcome 
 + Quality control
 + Identifying optimal phones/hardware
-+ Create planter accounts
-+ Assign planters to projects / organizations
++ Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
