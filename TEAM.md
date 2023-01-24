@@ -80,8 +80,17 @@ The Search Engine team establish, maintain, and improve our search service, incl
 
   Customizable web map is a playground and feature for our organization paterner to custom their dedicated web map app with their own brand, color and syste. 
 - Team Lead: @RubenSmn
-- Renewal / expiration date: 7 Nov 2022
+- Renewal / expiration date: 18 Apr 2023
+
 The core feature of web map app, to build custom map for organizations on Greenstand.
+
+### V2 Web Map
+
+V2 web map will adopt our new domain and abandon the old database, and bring the real tree+capture concept into the web map app.
+
+- Team Lead: @jeremydthomas
+- Renewal / expiration date: 18 Apr 2023
+- Project: https://github.com/orgs/Greenstand/projects/62
 
 ## AWS Lead
 - Open
