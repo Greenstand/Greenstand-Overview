@@ -5,7 +5,7 @@
   
 Greenstand’s mission is to develop and maintain a global, open-source marketplace to digitally track and compensate farmers for growing individually managed trees to support reforestation and alleviate poverty. Our goal is to create a self-sustaining restoration platform that connects local communities in developing countries with socially- and environmentally-concerned global citizens. Restoration efforts are informed, and adjusted, based on the results of basic ecological research. We aim to enable communities to become stewards of their land while providing opportunities for gainful employment.
 
-Since 2015, Greenstand, a U.S.-based 501(c)(3), has continued to be one of the only organizations using a “pay to grow” model. In typical carbon funds the benefits do not flow down to the growers, and individuals are not paid for carbon sequestration or growing trees. With our open source Treetracker software stack, tree growers can track the trees they plant and care for in exchange for fair monetary compensation, eliminating the need to degrade natural resources to put food on the table. 
+Since 2015, Greenstand, a U.S.-based 501(c)(3), has continued to be one of the only organizations using a “pay to grow” model. In typical carbon funds the benefits do not flow down to the growers, and individuals are not paid for carbon sequestration or growing trees. With our open-source Treetracker software stack, tree growers can track the trees they plant and care for in exchange for fair monetary compensation, eliminating the need to degrade natural resources to put food on the table. 
 
 The Treetracker platform is open-source, meaning that the source code behind it is open for other developers to emulate and improve upon. For example, our Web Map is supported by Leaflet, another open-source developer. The beauty of open-source technology is that Greenstand did not have to create our Web Map and other components of the Treetracker from scratch. And we are able to share knowledge with other organizations, thus saving time and money. 
  
@@ -20,16 +20,16 @@ The project has grown to hundreds of integrating organizations, thousands of con
 
 Currently, Greenstand's systems and operations have grown so large and widespread that without documentation and clear communications helping to lead the way, most of the people in our three core audiences get frustrated, lose interest, and disengage. To continue up the growth curve, advancing the project documentation is most critical!
 
-There have been many attempts to solve these documentation challenges including significant efforts from experienced technical writers, and project leads. However, time and again, Greenstand documentation issues have been labeled as "Needing a fully focused team of contributor for 6 months"
+There have been many attempts to solve these documentation challenges including significant efforts from experienced technical writers, and project leads. However, time and again, Greenstand documentation issues have been labeled as "Needing a fully focused team of contributors for 6 months"
 
 **Greenstand is seeking a grant to help solve this issue.**
 
 ## Core Documentation Problems
 
-1. Existing documentation is scattered and hard to find. Example: there are many how to use the app videos, but where are they? 
-2. Findable documentation is outdated, and lacking a structure and protocol to update or remove it. Example: Which version is the wallet api documentation written for? Is the Webmap API Documentation reflecting the domain migration?
-3. Contributors are not able to edit and update documentation. Example: many outdated documents are locked on Google Drive or Gitbook, or pinned as a pdf in Slack. 
-4. There is no standard way of documenting at Greenstand, each lead is using their own method. Example, a repositories may have a Read Me, a wiki, a Gitbook page, or many have no documentation at all.
+1. Existing documentation is scattered and hard to find. For example: there are many how to use the app videos, but where are they? 
+2. Findable documentation is outdated, and lacks a structure and protocol to update or remove it. For example: Which version is the wallet API documentation written for? Is the Webmap API Documentation reflecting the domain migration?
+3. Contributors are not able to edit and update documentation. For example: many outdated documents are locked on Google Drive or Gitbook, or pinned as a pdf in Slack. 
+4. There is no standard way of documenting at Greenstand, each lead is using their own method. For example, repositories may have a Read Me, a wiki, a Gitbook page, or many have no documentation at all.
 
 # Documentation Project
 
@@ -91,10 +91,10 @@ Project Management "project board set up | Week 2-6 | Using audit findings to cr
 | Volunteer Engagement | Volunteer attrition rates (currently fewer than 10% of volunteers don’t get past the introduction message on Slack). | Reduce  volunteer attrition rate to 30% by week 10 |
 | Volunteer Engagement | Volunteer participation rates | Increase total volunteer hours contributed and logged monthly by 40% by week 15| 
 | Volunteer Engagement | Volunteer participation rates | Increase the number of individual volunteers contributing at least 1 time a week by 30% by week 10.|
-| Volunteer Engagement | Decrease friction to "first contribution | Reduce number of messages and questions asked by new contributors by %50 by week 24 |
-| Volunteer Engagement | Increase the number of relevant tickets opened by contributors| %20 increase in valid tickets by week 24 | 
+| Volunteer Engagement | Decrease friction to "first contribution | Reduce number of messages and questions asked by new contributors by 50% by week 24 |
+| Volunteer Engagement | Increase the number of relevant tickets opened by contributors| 20% increase in valid tickets by week 24 | 
 | Volunteer Engagement | Increase in community contributions to documentation | Have at least 40 contributors submit documentation edits and updates by week 24.
-|Tree grower engagement | Number of Returning users education in Communications from users | Increase rate of target user adoption by 10%, Reduce incoming emails with questions about using the system by %50 | Increase rate of target user adoption by 10% |
-|Tree grower engagement | Reduction in Communications from users |  Reduce incoming emails with questions about using the system by %50 | 
+|Tree grower engagement | Number of Returning users education in Communications from users | Increase rate of target user adoption by 10%, Reduce incoming emails with questions about using the system by 50% | Increase rate of target user adoption by 10% |
+|Tree grower engagement | Reduction in Communications from users |  Reduce incoming emails with questions about using the system by 50% | 
 | Corporate partnership engagement| Increase integration requests | Increase integration requests by 20% by week 24| 
 | Corporate partnership engagement| Reduce time spent supporting integrations | Reduce support correspondence by 90%
