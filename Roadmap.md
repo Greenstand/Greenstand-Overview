@@ -1,33 +1,44 @@
-# Roadmap for Treetracker Project (Reviewed March 2020)
+# Roadmap for Treetracker Project (Reviewed Jan 2023)
 
-This project coordinates tree planting employment for people living in extreme poverty.
+Technology that enables payments for the creation of environmental impact.
 
-See https://greenstand.gitbook.io/engineering/#welcome
+Also see https://greenstand.gitbook.io/engineering/#welcome
 
 ## Immediate Development Targets (Core Functionality)
 
-### Android
+### Android Tree Tracker
 
 + Deploy data pipeline into production (Complete)
-+ Integrate payments API for Treetracker Pay app (Cancelled)
 + Integrate messages/feedback API for planter feedback (Complete)
-+ GPS coordinate accuracy enhancement
-+ Continue iterative improvements to UI/UX
-+ Refine build automation / dev ops
++ GPS coordinate accuracy enhancement (ongoing)
++ Continue iterative improvements to UI/UX (ongoing)
++ Reduced tracking time per tree (ongoing)
++ Refine build automation/dev ops
++ Unit tests 
++ Run UI tests on our CI system
 
-### iOS
+### Android Greenstand Token Trading App
++ Credial creation
++ Basic send feature to existing walllet
++ Send/Gift to non-existing wallet
 
-+ Implement native clone of Android app
-+ Implement bulkpack upload
+### iOS Greenstand Token Trading App 
++ Credial creation
++ Basic send feature to exisisting walllet
++ Send/Gift to non-existing wallet
+
+### iOS Tree Tracker
++ Add Notes Feature
++ Add token field-transfer-request/send feature
 
 ### Web Map
 
-+ Sharing, bill of value, and UI/UX enhancements to web map wallet view
++ Sharing, Bill of value (TRings), and UI/UX enhancements to web map wallet view
 + Impact panels for planters and organizations
-+ Timeline filtering (complete)
-
++ Integrate Wallet 
++ 
 ### Token Trading API
-
+ 
 + Implement generic trading between wallets (Complete)
 + Streamline process for wallet creation (Complete)
 + Automate credential creation and delivery
@@ -45,6 +56,9 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + Develop and improve ansible scripting for deployment automation
 + Improve blue/green deployment process
 + Manage and migration of dev & test infrastructures
++ Cdn optimization in the prod environment
++ Keycloak
++ Solr
 
 ### Data Analysis
 
@@ -62,11 +76,11 @@ See https://greenstand.gitbook.io/engineering/#welcome
 + Planter image management
 + additional filters
 + advanced species management (merge)
++ Integrate Wallet tools
 
-### Technical Operations
+### Operational Challenges to Overcome 
 + Quality control
 + Identifying optimal phones/hardware
-+ Create planter accounts
-+ Assign planters to projects / organizations
++ Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
