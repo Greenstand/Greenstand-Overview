@@ -1,10 +1,10 @@
 # Roadmap for Treetracker Project (Reviewed APR 2023)
 
 Technology that enables payments for the creation of environmental impact.
-
-Also, see https://greenstand.gitbook.io/engineering/#welcome
-
-See the latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
+Contributrors may also review the following:
+- [Engineering Handbook](https://greenstand.gitbook.io/engineering/#welcome)
+- [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
+- [The Project Boards](https://github.com/orgs/Greenstand/projects)
 
 ## Immediate Development Targets (Core Functionality)
 
