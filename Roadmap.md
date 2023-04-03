@@ -4,6 +4,8 @@ Technology that enables payments for the creation of environmental impact.
 
 Also see https://greenstand.gitbook.io/engineering/#welcome
 
+See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
+
 ## Immediate Development Targets (Core Functionality)
 
 ### Android Tree Tracker
@@ -36,7 +38,7 @@ Also see https://greenstand.gitbook.io/engineering/#welcome
 + Sharing, Bill of value (TRings), and UI/UX enhancements to web map wallet view
 + Impact panels for planters and organizations
 + Integrate Wallet 
-+ 
+
 ### Token Trading API
  
 + Implement generic trading between wallets (Complete)
@@ -57,7 +59,7 @@ Also see https://greenstand.gitbook.io/engineering/#welcome
 + Improve blue/green deployment process
 + Manage and migration of dev & test infrastructures
 + Cdn optimization in the prod environment
-+ Keycloak
++ Keycloak- integrate into all microservices 
 + Solr
 
 ### Data Analysis
@@ -84,3 +86,6 @@ Also see https://greenstand.gitbook.io/engineering/#welcome
 + Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
+
+Greenstand Block Chain Network
++ Beta release of modified Etheium Sidechain
