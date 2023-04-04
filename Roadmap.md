@@ -6,6 +6,8 @@ Contributrors may also review the following:
 - [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
 - [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
+See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
+
 ## Immediate Development Targets (Core Functionality)
 
 ### Android Tree Tracker
@@ -39,6 +41,7 @@ Contributrors may also review the following:
 + Sharing, Bill of value (TRings), and UI/UX enhancements to web map wallet view
 + Impact panels for planters and organizations
 + Integrate Wallet 
+
 
 ### Greenstand Token Trading API
  
@@ -96,3 +99,6 @@ Contributrors may also review the following:
 + Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
+
+Greenstand Block Chain Network
++ Beta release of modified Etheium Sidechain
