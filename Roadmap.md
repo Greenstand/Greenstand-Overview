@@ -1,8 +1,10 @@
-# Roadmap for Treetracker Project (Reviewed Jan 2023)
+# Roadmap for Treetracker Project (Reviewed APR 2023)
 
 Technology that enables payments for the creation of environmental impact.
-
-Also see https://greenstand.gitbook.io/engineering/#welcome
+Contributrors may also review the following:
+- [Engineering Handbook](https://greenstand.gitbook.io/engineering/#welcome)
+- [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
+- [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
 See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
 
@@ -21,15 +23,16 @@ See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-
 
 ### Android Greenstand Token Trading App
 + Credial creation
-+ Basic send feature to existing walllet
-+ Send/Gift to non-existing wallet
++ Basic send feature to an existing wallet
++ Send/Gift to a non-existing wallet
 
-### iOS Greenstand Token Trading App 
+### iOS Greenstand Token Trading App
 + Credial creation
-+ Basic send feature to exisisting walllet
-+ Send/Gift to non-existing wallet
++ Basic send feature to an existing wallet
++ Send/Gift to a non-existing wallet
 
 ### iOS Tree Tracker
+[Project Board](https://github.com/orgs/Greenstand/projects/33)
 + Add Notes Feature
 + Add token field-transfer-request/send feature
 
@@ -39,10 +42,11 @@ See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-
 + Impact panels for planters and organizations
 + Integrate Wallet 
 
-### Token Trading API
+
+### Greenstand Token Trading API
  
 + Implement generic trading between wallets (Complete)
-+ Streamline process for wallet creation (Complete)
++ Streamline the process for wallet creation (Complete)
 + Automate credential creation and delivery
 
 ### General API Needs
@@ -56,13 +60,13 @@ See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-
 
 + Monitoring and alerting, log analysis
 + Develop and improve ansible scripting for deployment automation
-+ Improve blue/green deployment process
++ Improve the blue/green deployment process
 + Manage and migration of dev & test infrastructures
 + Cdn optimization in the prod environment
 + Keycloak- integrate into all microservices 
 + Solr
 
-### Data Analysis
+### Data Analysis 
 
 + R&D for tree data point matching feature (Capture matching feature)
 + R&D for improving GPS accuracy using kalman filtering and planter movement scripting
@@ -70,17 +74,26 @@ See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-
 + Automated duplicate screening
 + Cloud image analysis to sort images based on tags (grown, hole, etc..)
 + Machine learning species verification (80% Accuracy)
-+ Modeling ecological value of planted trees
++ Modeling the ecological value of planted trees
 
 ### Admin Panel
+
 + Planter quality control and management, activity metrics
++ [Capture Matching Full deployment](https://github.com/orgs/Greenstand/projects/35)
 + Duplicate identification
 + Planter image management
-+ additional filters
-+ advanced species management (merge)
++ Additional filters
++ [Advanced species management (merge)](https://github.com/orgs/Greenstand/projects/64)
 + Integrate Wallet tools
++ [Messages pages for administrators](https://github.com/Greenstand/treetracker-admin-client/issues/503)
 
-### Operational Challenges to Overcome 
+### Admin Wallet Client 
++ Beta Release
+
+### Greenstand Block Chain Network
++ Beta release of modified Etheium Sidechain
+
+### Operational 
 + Quality control
 + Identifying optimal phones/hardware
 + Automated creation and verification of planter accounts
