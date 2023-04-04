@@ -4,7 +4,7 @@ Technology that enables payments for the creation of environmental impact.
 Contributrors may also review the following:
 - [Engineering Handbook](https://greenstand.gitbook.io/engineering/#welcome)
 - [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
-- [The Project Boards](https://github.com/orgs/Greenstand/projects)
+- [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
 ## Immediate Development Targets (Core Functionality)
 
@@ -40,7 +40,7 @@ Contributrors may also review the following:
 + Impact panels for planters and organizations
 + Integrate Wallet 
 
-### Token Trading API
+### Greenstand Token Trading API
  
 + Implement generic trading between wallets (Complete)
 + Streamline the process for wallet creation (Complete)
@@ -84,12 +84,15 @@ Contributrors may also review the following:
 + Integrate Wallet tools
 + [Messages pages for administrators](https://github.com/Greenstand/treetracker-admin-client/issues/503)
 
-### Operational Challenges to Overcome 
+### Admin Wallet Client 
++ Beta Release
+
+### Greenstand Block Chain Network
++ Beta release of modified Etheium Sidechain
+
+### Operational 
 + Quality control
 + Identifying optimal phones/hardware
 + Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
-
-### Greenstand Block Chain Network
-+ Beta release of modified Etheium Sidechain
