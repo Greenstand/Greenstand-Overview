@@ -80,7 +80,7 @@ Here are a few immediate and long-term needs. If you don’t see a project that 
 
 - Image processing - Duplicate image detection, species detection. Let's get our analysis pipeline rolling.
 
-## Complete list of [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
+## A list of some [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
 
    * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
    * Kotlin Issues: [Android App](https://github.com/Greenstand/treetracker-android/issues)
