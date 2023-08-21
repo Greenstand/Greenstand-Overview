@@ -111,6 +111,7 @@ Here are a few immediate and long-term needs. If you don’t see a project that 
 - [Treetracker-Admin User Story]
 - [Treetracker Admin Project Board]
 - [Treetracker Admin Wiki](https://docs.greenstand.org/admin-panel/)
+- [Treetracker Admin Quickstart Guide](https://docs.greenstand.org/admin-panel/quickstart#2.-setting-up-github)
 
 #### [Development overview](https://github.com/Greenstand/Development-Overview)
 - [Development Overview Project Board]
