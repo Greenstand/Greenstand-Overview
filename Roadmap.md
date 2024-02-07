@@ -6,21 +6,34 @@ Contributrors may also review the following:
 - [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
 - [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
-See Latest [Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
-
 ## Immediate Development Targets (Core Functionality)
 
 ### Android Tree Tracker
-
-+ Deploy data pipeline into production (Complete)
-+ Integrate messages/feedback API for planter feedback (Complete)
-+ GPS coordinate accuracy enhancement (ongoing)
-+ Continue iterative improvements to UI/UX (ongoing)
-+ Reduced tracking time per tree (ongoing)
-+ Refine build automation/dev ops
-+ Unit tests 
-+ Run UI tests on our CI system
-
++ UX/UI - Standardize icons (14)
++ Clear Current Bug Reports (15)
++ Deeplinks (16)
+ - Organization send link for custom app to users (17)
+ - Custom Setup for deeplinks (18)
+ - Introduce config file adjustments based on phone performance / Org needs (46)
++ Ux/UI - New Token Field Transfer Page (19)
++ Create Wireframes for new landing page (20)
++ Privacy options (21)
++ Delete Options (22)
++ Users can send and receive messages (25)
++ Feedback for planter feedback at tree level (26)
++ Refine build automation/dev ops (27)
++ Run UI tests on our CI system (28)
++ Unit tests (29)
++ Tracking time to below 2 seconds (31)
++ GPS coordinate accuracy enhancement (ongoing) (33)
+     Adjust and Optimize Convergence time out (44)
+     Reduce Decimal point to tangible number (47)
+  Adjust and optimize Image Sizes (43)
+        Adjust and Optimize processing times for saving / Displaying images (43)
+        Adjust and Optimize UX flows and reduce number of clicks) (45)
+  Integrate Token trading App (34)
+    + Planters Can Transfer Tokens to another Wallet/ USER account (36)
+      
 ### Android Greenstand Token Trading App
 + Credial creation
 + Basic send feature to an existing wallet
