@@ -26,16 +26,16 @@ Contributrors may also review the following:
 + Unit tests (29)
 + Tracking time to below 2 seconds (31)
 + GPS coordinate accuracy enhancement (ongoing) (33)
-     Adjust and Optimize Convergence time out (44)
-     Reduce Decimal point to tangible number (47)
-  Adjust and optimize Image Sizes (43)
-        Adjust and Optimize processing times for saving / Displaying images (43)
-        Adjust and Optimize UX flows and reduce number of clicks) (45)
-  Integrate Token trading App (34)
-    + Planters Can Transfer Tokens to another Wallet/ USER account (36)
++ Adjust and Optimize Convergence time out (44)
++ Reduce Decimal point to tangible number (47)
++ Adjust and optimize Image Sizes (43)
++ Adjust and Optimize processing times for saving / Displaying images (43)
++ Adjust and Optimize UX flows and reduce number of clicks) (45)
++ Integrate Token trading App (34)
++ Planters Can Transfer Tokens to another Wallet/ USER account (36)
       
 ### Android Greenstand Token Trading App
-+ Credial creation
++ Credential creation / Key Cloak Integration
 + Basic send feature to an existing wallet
 + Send/Gift to a non-existing wallet
 
