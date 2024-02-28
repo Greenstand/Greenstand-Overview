@@ -1,29 +1,28 @@
 # Roadmap for Treetracker Project (Reviewed Mar 2024)
 
 Technology that enables payments for the creation of environmental impact.
-Contributrors may also review the following:
+Contributors may also review the following:
 - [Engineering Handbook](https://greenstand.gitbook.io/engineering/#welcome)
 - [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
 - [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
-## Immediate Development Targets (Core Functionality)
+## 2024 Development Targets (Core Functionality)
 
-## Privacy
-  Data Privacy Issues
-  Deletes option (app)
-  Privacy option (app)
-  Confirm users info is private from public API accesses
-    There should be a confirmation made that no non-essential user info is exposed on the api
-  Ossification option
-    Privacy options for token minting prevention
-    GEO Linking
-      Connect to a What three words (space of GEO locations grid)
+## Privacy Enhancements
+  + Advance all data privacy issues
+  + Deletes option (app)
+  + Privacy option (app)
+  + Audit all public API access for exposes PII
+  + Review, evaluate, and upgrad polices concerning access to any PII
+  + Audit and document all user info exposed via integration API's
+  + Implement an ossification option for PUU and Geo Location
+  + Review and implement privacy protocol for token minting
 
 ### Android Tree Tracker
 + UX/UI - Standardize icons (14)
 + Clear Current Bug Reports (15)
 + Deeplinks (16)
- - Organization send link for custom app to users (17)
+ - Organization sends link for custom app to users (17)
  - Custom Setup for deeplinks (18)
  - Introduce config file adjustments based on phone performance / Org needs (46)
 + Ux/UI - New Token Field Transfer Page (19)
@@ -73,26 +72,28 @@ Contributrors may also review the following:
 + Time Line Feature
 + Map loading Speed. To any tree in 2 seconds
 + Map 2.0
-+ Add Geo Spatial Data layers such as  https://ctrees.org/
++ Add Geo-spatial Data layers such as  https://ctrees.org/
 + Flag /Like Feature
 + Supports Tree Capture
-      View trees on Map
-      View captures on map
-      Trees can jump to all captures
-  Customizable Map
-      Organization can custom map
-        Theme
-        Color
-        Logo
-        Font
-  Close old webmap services
-    SEO analysis and optimization
-    Search features - (org, name, species, country, city)
-    Web Map performance up - for org map, tree point, wallet map, and timeline
-    Like Button
+      - View trees on Map
+      - View captures on map
+      - Trees can jump to all captures
++ Customizable Map
+     - Organization can custom map
+  - Theme
+    -     Color
+      -  Logo
+       - Font
+  + Close old webmap services
+    - SEO analysis and optimization
+    - Search features - (org, name, species, country, city)
+    - Web Map performance up - for org map, tree point, wallet map, and timeline
+    - Like Button
  
-    Connect to Webmap wallet UI
-      Connect to wallet ApI
+  +  Connect to Webmap wallet UI
+  +  Connect to wallet ApI
+    + GEO Linking
+      Connect to a What three words (space of GEO locations grid)
 
 ### Greenstand Token Trading API
  
