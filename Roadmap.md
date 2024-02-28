@@ -81,10 +81,10 @@ Contributors may also review the following:
 + Customizable Map
      - Organization can custom map
   - Theme
-    -     Color
-      -  Logo
-       - Font
-  + Close old webmap services
+    - Color
+    -  Logo
+    - Font
++ Close old webmap services
     - SEO analysis and optimization
     - Search features - (org, name, species, country, city)
     - Web Map performance up - for org map, tree point, wallet map, and timeline
@@ -122,6 +122,7 @@ Contributors may also review the following:
 + Isolate core Services
 + Migrate requests from partners to dedicated DB + API environment
 ### Data Analysis 
+
 + Introduce Data Analytics tool dashboard
 +  Auto Species ID
 +  Auto Capture Matching
@@ -135,26 +136,26 @@ Contributors may also review the following:
 + Modeling the ecological value of planted trees
 
 ## Capture Matching Tool
-Capture Matching advancement 80% accuracy with machine learning
-  Capture Matching to a "Usable place"
-    Capture Matching Tool being able to generate a new tree for all organizations (MILESTONE)
++ Capture Matching advancement 80% accuracy with machine learning
++ Capture Matching to a "Usable place"
++ Capture Matching Tool being able to generate a new tree for all organizations (MILESTONE)
  ## Track File Tool 
-  Track Tool
-  GIS tracking and boundary layer tools
++  Track Tool
++  GIS tracking and boundary layer tools
  
 ## Database Denormalization Project
  + Implement tagging structure (like the Habarium)
 
 ## Dev OPs
-      Upgrade Release Channel
-      Upgrade development workflow
-        Dedicated env for different features / Versions of API's for clients and testers
-        Easier way to maintain different /legacy versions
++ Upgrade Release Channel
++ Upgrade development workflow
++ Dedicated env for different features / Versions of API's for clients and testers
++ Easier way to maintain different /legacy versions
 ## Admin Panel
- + Self sign in sign up
- + Sign in via the app notification for on the ground trackers
- + Payment Verification
- + Rewards System (trading tokens for Swag - Wallet admin dependent)
++ Self sign in sign up
++ Sign in via the app notification for on the ground trackers
++ Payment Verification
++ Rewards System (trading tokens for Swag - Wallet admin dependent)
 + Automate access control
 + Button to Admin Panel to Wallet Tool
 + Planter quality control and management, activity metrics
@@ -166,11 +167,11 @@ Capture Matching advancement 80% accuracy with machine learning
 + Integrate Wallet tools
 + [Messages pages for administrators](https://github.com/Greenstand/treetracker-admin-client/issues/503)
 ## Key Cloak Projet
-   Authentication system
-    Self Server Key Cloak Project
-    Integrate Keycloak into all Microservices
-      Auth System
-    Key cloak Users system and Authentication to all Microservices
++ Authentication system
++ Self Server Key Cloak Project
++ Integrate Keycloak into all Microservices
++ Auth System
++ Key cloak Users system and Authentication to all Microservices
 
 ## Wallet Admin Client
 
