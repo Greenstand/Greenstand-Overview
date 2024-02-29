@@ -299,3 +299,12 @@ Unregistered users can create a sub-account under a managed wallet by following 
     Access controlled document portal HTML documents
     Establish sharing protocol and systems for Private Docs (gitbook versus website?)
     Version control for Documentation_ only the live API's should be on our website, others shall be back side documents- Query only data api (when in doubt lock it up..
+
+
+# Miles Stones: 
++ Completion of all Self Service functions required for Growers and Brokers to sell and transfer tokens from mobile app to marketplace integrations
++ Automating integration for token sales and services for mass purchasing of tokens
++ Automating validation and tagging of tokens.
++ Grower Proof of payment module - a required module to enable the creation and generation of tokens off line
++ Automated workflows for direct payments via Mobile Money in 10 African Countries
++ Release To Production - Deployment of Greenstand Impact Token Blockchain Network on Ethirum - Ethereum side-chain with validation by 
