@@ -75,15 +75,15 @@ Contributors may also review the following:
 + Add Geo-spatial Data layers such as  https://ctrees.org/
 + Flag /Like Feature
 + Supports Tree Capture
-      - View trees on Map
-      - View captures on map
-      - Trees can jump to all captures
+  - View trees on Map
+  - View captures on map
+  - Trees can jump to all captures
 + Customizable Map
-     - Organization can custom map
+  - Organization can custom map
   - Theme
-    - Color
-    -  Logo
-    - Font
+  - Color
+  -  Logo
+  - Font
 + Close old webmap services
     - SEO analysis and optimization
     - Search features - (org, name, species, country, city)
@@ -228,30 +228,30 @@ Unregistered users can create a sub-account under a managed wallet by following 
 * **Users' Wallet Management and Profiles:**
     * Internet users can create their own managed wallets.
     * Users can manage their wallet profiles and display them on a map.
-* **New Token Assignment Approach:**
++  **New Token Assignment Approach:**
     * Users can:
         * Register via social media platforms (e.g., Facebook).
         * Have Greenstand create a wallet for them.
         * Receive tokens assigned through the Wallet API.
 * **Wallet Binding Operation**
-(Functionality details not provided)
++ (Functionality details not provided)
 ## Data Pipeline
-   Data pipeline Stabilization and Optimization
++ Data pipeline Stabilization and Optimization
 
 ## RVI Tool
-      RVI tool - individual's ability to apply an RVI to any capture in their wallet by using tags related to the trees or pending transfer
-      Release Basic RVI tool: ability to have a preset formula for tree value = Name of RVI, Tags considered, value or function per tag (example Tring = zero if   Token has no valid tags, if token is valid tags = 1 * (is indigious =5) * is linked to other token
-      Design Fungible Coin
++ RVI tool - individual's ability to apply an RVI to any capture in their wallet by using tags related to the trees or pending transfer
++ Release Basic RVI tool: ability to have a preset formula for tree value = Name of RVI, Tags considered, value or function per tag (example Tring = zero if   Token has no valid tags, if token is valid tags = 1 * (is indigious =5) * is linked to other token
++ Design Fungible Coin
 
  ##   Domain Migration
-    Stop All Legacy Domain services/tables
-      Api and Tile Server, Migration to new domain
-      Migrate Admin Panel to new domain
+ + Stop All Legacy Domain services/tables
+ + Api and Tile Server, Migration to new domain
+ + Migrate Admin Panel to new domain
  
  ## Payment for SAAS
-      Membership account link for autopayments based on number of tokens transferred
-      autopayments to the use of Tools such as (Capture matching, RVI, Token Minting, messaging, Herbarium access, Data processing fees)
-      Giving our Clients/organizations/ different services based on level of payments
++ Membership account link for autopayments based on number of tokens transferred
++ Autopayments to the use of Tools such as (Capture matching, RVI, Token Minting, messaging, Herbarium access, Data processing fees)
++ Giving our Clients/organizations/ different services based on level of payments
 ## Greenstand Blockchain Network
 + Beta release of modified Etheium Sidechain
 + * 7 Nodes operating
@@ -273,32 +273,30 @@ Unregistered users can create a sub-account under a managed wallet by following 
 + Payout management for planters / collectors
 
 ## Documentation 
-
-  Clean up Readme's
-  Wallet API published Public
-  Review Audit of open links
-    Android Documentation
-      Document Image Size History and Strategies
-  Contributor Porthole - Operational Info for Contributors
-  Link all documentation from Greenstand.org
-  Auto updates to documentation for Yaml files etc..
-  Define Private and Public Docs Task New Normal
-  Web map api (published)
-  Earnings API (Private)
-  Document all main project tools we use
-  Defining public and private docs..
-  Define Gitbook versus Github Versust Stoplight Studio
-
-  Document the documentation process.
-  Removal of legacy API's don't need specs.
-  Figure out how to turning a YAML into a readable file on the web
-    Stoplight.io has the correct style..
-    Keep current links to api documentation, and keep links to old documentation (production version versus test)
-    Wallet Integration API - published on our website (access control)
-    Web map API published Milestone
-    Access controlled document portal HTML documents
-    Establish sharing protocol and systems for Private Docs (gitbook versus website?)
-    Version control for Documentation_ only the live API's should be on our website, others shall be back side documents- Query only data api (when in doubt lock it up..
++ Clean up All Readme's
++ Wallet API published Public
++ Review Audit of open links
++ Android Documentation
++ Document Image Size History and Strategies
++ Contributor Porthole - Operational Info for Contributors
++ Link all documentation from Greenstand.org
++ Auto updates to documentation for Yaml files etc..
++ Define Private and Public Docs Task New Normal
++ Web map api (published)
++ Earnings API (Private)
++ Document all main project tools we use
++ Defining public and private docs..
++ Define Gitbook versus Github uses.
++ Considering implementing Stoplight Studio Stoplight.io
++ Refine documentation on the documentation process.
++ Removal of legacy API's don't need specs.
++ Figure out how to turning a YAML into a readable file on the web
++ Keep current links to api documentation, and keep links to old documentation (production version versus test)
++ Wallet Integration API - published with access control
++ Web map API published
++ Access controlled document portal HTML documents
++ Establish sharing protocol and systems for Private Docs (gitbook versus website?)
++ Version control for Documentation_ only the live API's should be on our website, others shall be back side documents- Query only data api (when in doubt lock it up.)
 
 
 # Miles Stones: 
