@@ -2,7 +2,7 @@
 
 We are here to make the world a cooler, richer and greener place.  
 
-**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a service that allows people to create/register wallet and transfer tokens. These token are created from data linked to a claim of having created an ecological impact, through the tending and caring of trees. The tokens and the wallet system can be used to trade tokens via an API. [Postman](https://github.com/Greenstand/treetracker-wallet-api#set-up-postman-to-operate-wallet-api) is a helpful tool for interacting with the wallet API.
+**Basic Overview:** The [treetracker-android](https://github.com/Greenstand/treetracker-android) app is a tool to allow planters to verify tree planting and tree survival with geo-tagged, time-stamped images. The tree images and data points are analyzed using the [treetracker-admin-client](https://github.com/Greenstand/treetracker-admin-client) and displayed and shared via tokens/links on the [treetracker-web-map-client](https://github.com/Greenstand/treetracker-web-map-client). This map can be embedded on other organizations' websites displaying their planted and mapped trees. The [wallet-api](https://github.com/Greenstand/treetracker-wallet-api) is a service that allows people to create/register wallet and transfer tokens. These token are created from data linked to a claim of having created an ecological impact, through the tending and caring of trees. The tokens and the wallet system can be used to trade tokens via an API.
 
 # Contributing to The Cause
 Help us star and fork our repositories.
@@ -16,29 +16,29 @@ See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12Xc
 [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
 ### Join The team
-* Fill out the [Engineering Sign Up](https://greenstand.org/contribute/volunteer)
+1. Read Policies and contributing guide lines
+   
+2.  Fill out the [Engineering Sign Up](https://greenstand.org/contribute/volunteer)
 
-* Join us on Slack
+3. Join us on Slack
 
-* Ask to be added to the team on Github.
+4. Ask to be added to the team on Github. Join and setti
 
-* If you already know how, feel free to just fork and pull.
+* If you already know how, find your taks on a [project board](https://github.com/orgs/Greenstand/projects), fork your repository, do the work and open a pull pull request.
 
-* If the words 'fork and pull' doesn't make sense, please read up on Github below.
+* If the words 'fork and pull' doesn't make sense, please read up on how to use Github's version control (some notes below.)
 
-**Think Agile - Small Iterations - Clearly Defined Commits.**
+**Think Agile - Small Iterations - Clearly Defined SMALL pull requests.**
 
- * Keep your commits small - if you worked on three issues make three commits etc.
+ * Keep your commits small - if you worked on three issues make three pull requests etc.
 
- * Small commits help the reviewer
-
- * Lots of small commits make your profile look cooler.
+ * Small pull requests are easier to review and make your profile look cooler.
 
  * When in doubt, ask. (Via Slack or Github)
 
 ## Your first contribution
 
-* Find a task you would like to work on by browsing the repositories' issue lists below.
+* Find a task you would like to work on by browsing the repositories' issue lists below or the [Project board](https://github.com/orgs/Greenstand/projects)
 * Let others know what you are working on - post your intentions in the Github comments or relevant Slack channel.
 * If you don't find something now, be persistent - keep asking!
 
@@ -49,34 +49,28 @@ See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12Xc
 
 - Documentation - Help update and sync all documentation
 
-- General Decisions - take part in the general decision making process: https://github.com/Greenstand/treetracker-decisions
+- Cleaning and organization of ALL THINGS.
 
-### Development needs as of Aug 2022
+### Development needs as of NOV 2025
 
 Here are a few immediate and long-term needs. If you don’t see a project that fits, keep looking, come check in on Slack link and let’s figure out how to leverage your skills.
 
 - General Project Boards: https://github.com/orgs/Greenstand/projects
 
-- Tree tracker Web Map Client Project Beta https://github.com/orgs/Greenstand/projects/49
+- Tree tracker Web Map Client Project https://github.com/orgs/Greenstand/projects/49
 
 - Customizable Web Map Tool: https://github.com/orgs/Greenstand/projects/56
 
 - Search Service on Greenstand: https://github.com/orgs/Greenstand/projects/57
 
-- React.js, Next.js - Our admin panel is build using React.js, Next.js. We have new designs for the web map that need to be implemented and made mobile compliant.
+Some of our priorities:
 
-- Node.js, - our APIs are build on node.js express.  We need API engineers with some database experience to add features.  We also need engineers to improve our testing coverage.
-
-- Android - Need Android UI/UX engineers and individuals with experience working with cloud integrations in offline scenarios.  Experience with enhancing GPS accuracy on the Android platform is also useful.
- 
-- iOS - We need to build a clone of our Android app in iOS.  
-
-- DevOps - We use Github Action, Kubernetes and ArgoCD for build and deployment automation.  Our automation coverage is partial and we need an engineer with experience on these platforms to fix problems and streamline the process.
-
-- Cloud - Scaling and security analysis is needed.
-
-- Database - Database administration is need to continue refining our backend systems. We use PostgreSQL + PostGIS.
-
+- React.js, Next.js - Our admin panel
+- Node.js, node.js express Find APIs  
+- Kotlin see Android 
+- iOS
+- Cloud - Scaling and security analysis
+- Database - Database administration
 - Image processing - Duplicate image detection, species detection, automate species tagging and plant disease detection. Let's get our analysis pipeline rolling.
 
 ## A list of some [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
