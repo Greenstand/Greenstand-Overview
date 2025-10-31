@@ -1,18 +1,19 @@
-# Roadmap for Treetracker Project (Reviewed Mar 2024)
-
+# Roadmap for Treetracker Project
 Technology that enables payments for the creation of environmental impact.
 Contributors may also review the following:
 - [Engineering Handbook](https://greenstand.gitbook.io/engineering/#welcome)
 - [Visual Road Map](https://www.figma.com/file/n3pRXTcU7znsCiqZciewZE/Roadmap-2023?node-id=0-1)
 - [The Project Boards](https://github.com/orgs/Greenstand/projects?query=is%3Aopen)
 
-## 2024 Development Targets (Core Functionality)
+## Development Targets (Core Functionality)
+
+See individual project boards and communicate with Project Managers for priorities and ticket status.
 
 ## Privacy Enhancements
   + Advance all data privacy issues
   + Deletes option (app)
   + Privacy option (app)
-  + Audit all public API access for exposes PII
+  + Audit all public API access for exposeing PII
   + Review, evaluate, and upgrad polices concerning access to any PII
   + Audit and document all user info exposed via integration API's
   + Implement an ossification option for PUU and Geo Location
@@ -121,6 +122,7 @@ Contributors may also review the following:
 + Performance Reporting, (limitations, consumption and tuning performance)
 + Isolate core Services
 + Migrate requests from partners to dedicated DB + API environment
+  
 ### Data Analysis 
 
 + Introduce Data Analytics tool dashboard
@@ -139,6 +141,7 @@ Contributors may also review the following:
 + Capture Matching advancement 80% accuracy with machine learning
 + Capture Matching to a "Usable place"
 + Capture Matching Tool being able to generate a new tree for all organizations (MILESTONE)
+  
  ## Track File Tool 
 +  Track Tool
 +  GIS tracking and boundary layer tools
@@ -151,11 +154,13 @@ Contributors may also review the following:
 + Upgrade development workflow
 + Dedicated env for different features / Versions of API's for clients and testers
 + Easier way to maintain different /legacy versions
++ Integrate ML Species tagging
+    
 ## Admin Panel
 + Self sign in sign up
 + Sign in via the app notification for on the ground trackers
-+ Payment Verification
-+ Rewards System (trading tokens for Swag - Wallet admin dependent)
++ Payment Verification Function
+
 + Automate access control
 + Button to Admin Panel to Wallet Tool
 + Planter quality control and management, activity metrics
@@ -271,6 +276,7 @@ Unregistered users can create a sub-account under a managed wallet by following 
 + Automated creation and verification of planter accounts
 + Project configuration / organization whitelabel
 + Payout management for planters / collectors
++ Rewards System (trading tokens for Swag - Wallet admin dependent)
 
 ## Documentation 
 + Clean up All Readme's
@@ -305,4 +311,4 @@ Unregistered users can create a sub-account under a managed wallet by following 
 + Automating validation and tagging of tokens.
 + Grower Proof of payment module - a required module to enable the creation and generation of tokens off line
 + Automated workflows for direct payments via Mobile Money in 10 African Countries
-+ Release To Production - Deployment of Greenstand Impact Token Blockchain Network on Ethirum - Ethereum side-chain with validation by 
++ Release To Production - Deployment of Greenstand Impact Token Blockchain Network
