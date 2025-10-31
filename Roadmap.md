@@ -13,7 +13,7 @@ See individual project boards and communicate with Project Managers for prioriti
   + Advance all data privacy issues
   + Deletes option (app)
   + Privacy option (app)
-  + Audit all public API access for exposes PII
+  + Audit all public API access for exposeing PII
   + Review, evaluate, and upgrad polices concerning access to any PII
   + Audit and document all user info exposed via integration API's
   + Implement an ossification option for PUU and Geo Location
