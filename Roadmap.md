@@ -7,6 +7,8 @@ Contributors may also review the following:
 
 ## Development Targets (Core Functionality)
 
+See individual project boards and communicate with Project Managers for priorities and ticket status.
+
 ## Privacy Enhancements
   + Advance all data privacy issues
   + Deletes option (app)
