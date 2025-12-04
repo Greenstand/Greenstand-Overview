@@ -20,33 +20,8 @@ See individual project boards and communicate with Project Managers for prioriti
   + Review and implement privacy protocol for token minting
 
 ### Android Tree Tracker
-+ UX/UI - Standardize icons (14)
-+ Clear Current Bug Reports (15)
-+ Deeplinks (16)
- - Organization sends link for custom app to users (17)
- - Custom Setup for deeplinks (18)
- - Introduce config file adjustments based on phone performance / Org needs (46)
-+ Ux/UI - New Token Field Transfer Page (19)
-+ Create Wireframes for new landing page (20)
-+ Privacy options (21)
-+ Delete Options (22)
-+ Users can send and receive messages (25)
-+ Feedback for planter feedback at tree level (26)
-+ Refine build automation/dev ops (27)
-+ Run UI tests on our CI system (28)
-+ Unit tests (29)
-+ Tracking time to below 2 seconds (31)
-+ GPS coordinate accuracy enhancement (ongoing) (33)
-+ Adjust and Optimize Convergence time out (44)
-+ Reduce Decimal point to tangible number (47)
-+ Adjust and optimize Image Sizes (43)
-+ Adjust and Optimize processing times for saving / Displaying images (43)
-+ Adjust and Optimize UX flows and reduce number of clicks) (45)
-+ Integrate Token trading App (34)
-+ Planters Can Transfer Tokens to another Wallet/ USER account (36)
-+ Implement solution to monitor, debug and Analyze the app/service
-+ Verification feedback for users
- 
+See Android Documentation and [Project board](https://github.com/orgs/Greenstand/projects/109)
+
 ### Android Greenstand Token Trading App
 + Credential creation / Key Cloak Integration
 + Basic send feature to an existing wallet
@@ -54,7 +29,7 @@ See individual project boards and communicate with Project Managers for prioriti
 
 ### iOS Greenstand Token Trading App
 + Login via Keycloak
-+ Credial creation
++ Credential creation
 + Basic send feature to an existing wallet
 + Send/Gift to a non-existing wallet
 
@@ -94,8 +69,7 @@ See individual project boards and communicate with Project Managers for prioriti
   +  Connect to Webmap wallet UI
   +  Connect to wallet ApI
     + GEO Linking
-      Connect to a What three words (space of GEO locations grid)
-
+      
 ### Greenstand Token Trading API
  
 + Implement generic trading between wallets (Complete)

@@ -28,6 +28,7 @@ See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12Xc
 
 * If the words 'fork and pull' doesn't make sense, please read up on how to use Github's version control (some notes below.)
 
+
 **Think Agile - Small Iterations - Clearly Defined SMALL pull requests.**
 
  * Keep your commits small - if you worked on three issues make three pull requests etc.
@@ -73,21 +74,6 @@ Some of our priorities:
 - Database - Database administration
 - Image processing - Duplicate image detection, species detection, automate species tagging and plant disease detection. Let's get our analysis pipeline rolling.
 
-## A list of some [Issues/Tickets](https://github.com/Greenstand/Development-Overview/blob/master/Issues-lndex.md)**
-
-   * [General Issues](https://github.com/Greenstand/Development-Overview/issues)
-   * Kotlin Issues: [Android App](https://github.com/Greenstand/treetracker-android/issues)
-
-   * JavaScript Issues:
-          [Admin Panel Client](https://github.com/Greenstand/treetracker-admin-client/issues),
-          [Web Map Client](https://github.com/Greenstand/treetracker-web-map-client/issues),
-          [Mobile App API](https://github.com/Greenstand/treetracker-mobile-api/issues),
-
-   * Micro-services Issues:
-       [treetracker-api](https://github.com/Greenstand/treetracker-api)
-       [treetracker-field-data](https://github.com/Greenstand/treetracker-field-data)
-       [treetracker-query-api](https://github.com/Greenstand/treetracker-query-api)
-
 ## Project Repositories
 
 *In its most basic form, this platform is designed to collect tree images from an android application and display these images on web-maps that can be served on other organizations' websites. In its more advanced form, we are verifying individual planter's efforts by tracking individual trees over time and creating results-based employment. Each Data point or "capture" gets turned into a tradeable token.*
@@ -128,6 +114,7 @@ For Slack channel link email info@greenstand.org
 
 Slack is our main form of communication. Here are some Slack basics:
 To add yourself to the desired channels: on the left window in Slack find **channel +**...
+If you don't see the desired channel ask in #engineering or reach out to a lead.
 
 Our popular channels are #development, #android, #nodejs-api, #tree-talk etc..
 
