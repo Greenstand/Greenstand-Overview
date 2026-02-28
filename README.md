@@ -13,6 +13,8 @@ See [Greenstand Engineering Handbook](https://greenstand.gitbook.io/engineering)
 
 See [Greenstand Operations Handbook](https://app.gitbook.com/o/-MXNadx4i6aOZ12XcStA/s/-MgvgPeo6NdZWFJ-Vzv0/)
 
+See [BDD Guide](./BDD-GUIDE.md) — how product stakeholders, test engineers, and developers collaborate using Behaviour-Driven Development
+
 [Roadmap](https://github.com/Greenstand/Development-Overview/blob/master/Roadmap.md) for our feature development plans
 
 ### Join The team
