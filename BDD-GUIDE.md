@@ -1,4 +1,4 @@
-# BDD Guide for the Treetracker Admin Platform
+# BDD Guide for the Greenstand Platform
 
 This platform uses **Behaviour-Driven Development (BDD)** as the shared language between product, QA, and engineering. A feature's lifecycle flows in one direction:
 
