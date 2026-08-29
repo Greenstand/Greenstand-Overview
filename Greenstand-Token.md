@@ -2,14 +2,10 @@
 # Greenstand Token
 
 ## **A Framework for Non-fungible Tokens linked to Environmental Assets**
+Note: Readers may comment on and suggest modifications to this document via the Pull Request process, [Google Doc](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
 
-Version: 0.0, Aug, 2022
 
-### NOTE:
-
-THIS MODEL IS A GOAL AND MAY NOT ACCURATELY REPRESENT THE _CURRENT_ WORKINGS OF THE REGISTERED NON-PROFIT ORGANIZATION GREENSTAND.
-
-DOMAIN MODEL TERMINLOGY IN THIS PAPER MAY CONFLICT WITH CURRENTLY IMPLEMENTED STRUCTURES IN THE GREENSTAND GITHUB REPOSITORIES.
+Version: 0.1, Aug, 2022
 
 Readers may comment on and suggest modifications to this document via the Pull Request process, [Google Doc](https://docs.google.com/document/d/1R94Jp6QoHnxW8TbjeJgwH96EOXGVUgrRnEQ7Wxiu8yo/edit?usp=sharing), or email Info@greenstand.org
 
@@ -434,9 +430,9 @@ Sealing nodes are compensated using minting and transfer fees based on the value
 
 A TRing is the native currency of the Greenstand network and is created by depositing Greenstand tokens.
 
-The Greenstand Token resides on the network as an ERC721 token. Any Greenstand Token may be converted into TRings as an ERC20. The number of TRrings created from this conversion is calculated using the Greenstand network’s master RVI.
+The Greenstand Token resides on the network as an ERC721 token. Any Greenstand Token may be converted into TRings. The number of TRrings created from this conversion is calculated using the Greenstand network’s master RVI.
 
-The TRing is divisible by 100 units called Grain.
+The TRing is divisible by 100 units called Seed.
 
 
 ### Framework
@@ -518,9 +514,6 @@ It may happen as a transfer in a peer-to-peer network or as a string of requests
 
 Fungible tokens are identical tokens and mutually exchangeable. In the Greenstand system, RVIs produce fungible tokens from Non-fungible Greenstand Tokens.
 
-**Grain**
-
-A Grain is 100th of a TRing
 
 **Greenstand Token**
 
@@ -550,6 +543,10 @@ A unique token with unique attributes.
 
 
 A Root Wallet is a level of wallet permission on a Greenstand node that enables a user to make API calls that trigger the creation of new wallets and transfer requests from their own or managed wallets to any other wallet in the system. Root Wallets may grant wallet trading access to specific wallets for other users, third parties, and customers.
+
+**Seed**
+
+A Seed is 100th of a TRing.
 
 **Smallholder farmer**
 
@@ -584,7 +581,7 @@ Globally ‘tree planting’ is currently being counted as a “pledge” or as 
 **TRing**
 
 
-TRing is the native currency of the Greenstand network. They are created by depositing Greenstand Tokens. The number of TRings produced per Greenstand Token is calculated using the Master Relative Value Index. A TRing is divisible by 100 to create Grain.
+TRing is the native currency of the Greenstand network. They are created by depositing Greenstand Tokens. The number of TRings produced per Greenstand Token is calculated using the Master Relative Value Index. A TRing is divisible by 100 to create Seed.
 
 **Wallet**
 
