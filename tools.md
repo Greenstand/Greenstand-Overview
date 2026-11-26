@@ -9,7 +9,9 @@ description: >-
 
 ## Gitbook
 
-You are looking at it!  Fantastic tool for knowledge base management.  We have spaces for several different projects, you can get access to our organization on Gitbook by following this invite link: [https://app.gitbook.com/invite/greenstand?invite=-MXNaeN3vcUYyQBElh\_c](https://app.gitbook.com/invite/greenstand?invite=-MXNaeN3vcUYyQBElh\_c)
+GitBook hosts Greenstand's documentation at https://docs.greenstand.org. Sign in at https://app.gitbook.com with your existing account and request access through a maintainer. Organization Editor access can be inherited by sites/spaces; check the effective permissions for the content you need to edit. Do not reuse a historical public invite token.
+
+For published sites, create a change request from the site's Change requests page, edit and review the content, then merge according to the site's rules. Keep proposed ADRs and open implementation PRs labelled as proposals. Git Sync is a per-site configuration: verify the actual connection instead of assuming a GitHub copy is automatically synchronized.
 
 ## VSCode
 
@@ -109,7 +111,7 @@ We make heavy use of github actions to automate deployment to our cloud environm
 
 ## **Google Meet**
 
-We currently make extensive use of Google Meet for our weekly meetings. &#x20;
+Recurring team-meeting schedules are not currently in use. Coordinate through GitHub and Slack; arrange an ad-hoc call only when needed. &#x20;
 
 The closed caption feature  ( \[CC] in bottom right controls panel) is a useful feature for non-native English speakers or those with poor network connections.&#x20;
 
